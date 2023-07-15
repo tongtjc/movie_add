@@ -1,0 +1,109 @@
+{
+"name": "ดูทีวีดิจิตอล-ดูบอล-ดูหนัง",
+"author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
+"image": "https://en.ephoto360.com/uploads/effect-data/en.ephoto360.com/0topvzyla/9-min62442e7dbefd2.jpg",
+"url": "https://pastebin.com/raw/MU2PAQhp",
+"info": "Sample list for w3u tutorial using publicly available links",
+
+"groups": [
+
+{
+"name"              :     "TV Digital",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://drive.google.com/uc?id=1GddX2cZfMMhpjj6o1jtg4s9pWeZePE-f",
+"import": false
+},
+
+{
+"name"              :     "TV Digital สำรอง",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://drive.google.com/uc?export=download&id=1eKZ0_IqbEo5g_L1tWzIuLWFgz5NsFSz9",
+"import": false
+},
+
+
+{
+"name"              :     "Live Sport 1",
+"image"             :     "https://i.imgur.com/k6kY8DC.jpg",
+"url"               :     "https://drive.google.com/uc?id=15HPO_TxNrAauH36-pBPyTBdILqxD7fcy",
+"import": false
+},
+
+{
+"name"              :     "Live Sport 2",
+"image"             :     "https://i.imgur.com/BxGoMW6.jpg",
+"url"               :     "https://freenote.biz/raw/eBA4njoOiH",
+"import": false
+},
+
+{
+"name"              :     "Live Sport 3",
+"image"             :     "https://i.imgur.com/o02rOjb.jpg",
+"url"               :     "https://drive.google.com/uc?id=1Osh5qmHretK-y9ZN_w8qij2bFXqeM3Dw",
+"import": false
+},
+
+{
+"name"              :     "Live Sport 4",
+"image"             :     "https://i.imgur.com/kDiR0or.jpg",
+"url"               :     "https://pastebin.com/raw/mQZ3Ds5c",
+"import": false
+},
+
+{
+"name"              :     "Live Sport 5",
+"image"             :     "https://i.imgur.com/HHkvZiO.jpg",
+"url"               :     "https://pastebin.com/raw/88rTVhbp",
+"import": false
+},
+
+{
+"name"              :     "Live Sport 6",
+"image"             :     "https://i.imgur.com/ge90iuD.jpg",
+"url"               :     "https://www.dropbox.com/s/up3bhxzg0yiv6pc/sports-thai.txt?dl=1",
+"import": false
+},
+
+{
+"name"              :     "Live Sport 7",
+"image"             :     "https://drive.google.com/uc?export=download&id=1eJiHObxi2K0LTH5GrM8fib4i0kQrxhsJ",
+"url"               :     "https://drive.google.com/uc?export=download&id=1e9_ZZ5HmDJwQBeVrljX_iRfrjMhB7t5i",
+"import": false
+},
+
+{
+"name"              :     "Acestream SPORT",
+"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
+"url"               :     "https://drive.google.com/uc?id=1TXXFS5T7zhNQ-KCUEhd5Hf4-CBLOxiwY",
+"import": false
+}, 
+{
+"name"              :     "Movie 2023",
+"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
+"url"               :     "https://pastebin.com/raw/mSg8t65S",
+"import": false
+}, 
+
+{
+"name"              :     "Movie 2022",
+"image"             :     "https://i.imgur.com/YlGmyCj.jpg",
+"url"               :     "https://pastebin.com/raw/WscP82tE",
+"import": false
+}, 
+
+{
+"name"              :     "Cartoon",
+"image"             :     "https://i.imgur.com/8wzvO4g.png",
+"url"               :     "https://pastebin.com/raw/CrNvBxgT",
+"import": false
+}, 
+
+{
+"name"              :     "ละครซีรีส์",
+"image"             :     "https://www.fanart-resine.com/wp-content/uploads/2022/09/menu-UNIVERS-TV-1024x1024.jpg",
+"url"               :     "https://pastebin.com/bnXjZv5E",
+"import": false
+}, 
+
+]
+}
