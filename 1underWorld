@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.anime-suba.com/img/da-zhu-zai-nian-fan.jpg" , ตอนที่ 5
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/0jlqdwIzcq/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.anime-suba.com/img/da-zhu-zai-nian-fan.jpg" , ตอนที่ 4
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/k1VPBGklX2/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.anime-suba.com/img/da-zhu-zai-nian-fan.jpg" , ตอนที่ 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/PvTbkn3ePy/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.anime-suba.com/img/da-zhu-zai-nian-fan.jpg" , ตอนที่ 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/K1kn59tcFV/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.anime-suba.com/img/da-zhu-zai-nian-fan.jpg" , ตอนที่ 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/mAZhiuITs1/video.mp4/playlist.m3u8
