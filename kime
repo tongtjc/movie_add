@@ -1,0 +1,87 @@
+{
+"name"              :     "ดาบพิฆาตอสูร - หมู่บ้านช่างตีดาบ",
+"image"             :     "https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url"               :     "https://pastebin.com/raw/H9Bgq949",
+"stations" : [
+
+
+{  
+name:"ดาบพิฆาตอสูร - 11",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://sub-thai.com/stream//playlist/Kimetsu%20no%20Yaiba%20Katanakaji%20no%20Sato-hen/Kimetsu%20no%20Yaiba%20Katanakaji%20no%20Sato-hen%2011-720.m4v",
+"referer": "https://sub-thai.com/stream//player/517421.php"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 10",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/78kkB0nbbO/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 9",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/uOQ40LZ8S8/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 8",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/xNlWPSNLyX/video.mp4/chunk.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 7",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/MILvOsaGNu/video.mp4/chunk.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 6",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/yyUZfCYTzw/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 5",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/NrmyMaAuw/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 4",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/YxPMcpxCFy/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 3",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/0zE2kTz7Ia/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 2",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/nlnVpYpzC4/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+{  
+name:"ดาบพิฆาตอสูร - 1",
+image:"https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/AD6iK3M6tW/video.mp4/playlist.m3u8",
+"referer": "https://anime-indy.com/"
+},
+
+
+]
+}
