@@ -64,3 +64,12 @@ https://streamhls.com/view/436c0384-c215-571b-8fb5-b7224021911c.m3u8
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
 https://streamhls.com/view/f2f85527-a2e6-5d7c-96ee-6b6a332b79bd.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202208260242371bB7uV5ljDWKG2m5Z4cgWwDMAeY.jpg" , มหาวิบัติหายนะทะเลเพลิง
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://m1free.inwstream.com:1936/movie3/The_Burning_Sea_2021/The_Burning_Sea_2021_th_1080p_F.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230613161849qHrgK5sOANCXyKuduToEOOJZlIg.jpg" , ภารกิจกล้า ฝ่าไฟนอเทรอดาม
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://m1free.inwstream.com:1936/movie3/Notre_Dame_on_Fire_2022/Notre_Dame_on_Fire_2022_th_1080p.mp4/playlist.m3u8
