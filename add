@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Pook-Payon-2023.jpg" , ปลุกพยนต์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/3d81bc39-2010-5a6e-8007-b7e20c5ff9bf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Hoon-Payon-2023.jpg" , หุ่นพยนต์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/585216f4-50ca-5a4a-9700-994f9e505b92.m3u8
