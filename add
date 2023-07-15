@@ -38,3 +38,34 @@ https://streamhls.com/view/b16b5fa5-92a4-59ec-a8c4-a2914706cd3f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
 https://streamhls.com/view/5acdb868-037b-5cfd-82f3-4b667694423d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023.jpg" , ทรานส์ฟอร์เมอร์ส 5 : กำเนิดจักรกลอสูร
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/5111e993-2b84-592c-8854-d00d23fa8d67.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg" , อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา Zoom
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/5acdb868-037b-5cfd-82f3-4b667694423d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023v3.jpg" , รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/f38e7bf1-42f0-5c57-8958-29a5812d22ec.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-2.jpg" , รวมพันธุ์นักสู้พิทักษ์จักรวาล 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/042f0de0-48fc-57e2-89ca-224526ad44b9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-1.jpg" , รวมพันธุ์นักสู้พิทักษ์จักรวาล 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/436c0384-c215-571b-8fb5-b7224021911c.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Bird-Box-Barcelona2023.jpg" , มอง อย่าให้เห็น (บาร์เซโลนา)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/f2f85527-a2e6-5d7c-96ee-6b6a332b79bd.m3u8
+
