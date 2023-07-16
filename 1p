@@ -426,5 +426,13 @@
 			"playInNatPlayer": "true"
 		},
 
+{ 
+			"name":"1069",
+			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
+			"url":"https://indy.team-indy.tech:8443/vid/8UtP0D3nZ5/video.mp4/playlist.m3u8",
+			"referer": "https://anime-indy.com/",
+			"playInNatPlayer": "true"
+		},
+
 ]
 }
