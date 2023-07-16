@@ -2,7 +2,7 @@
 "name": "ดูทีวีดิจิตอล-ดูบอล-ดูหนัง",
 "author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
 "image": "https://freedesignfile.com/upload/2017/08/Great-TV-logo-vector.jpg",
-"url": "https://pastebin.com/raw/MU2PAQhp",
+"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
 "info": "Sample list for w3u tutorial using publicly available links",
 
 "groups": [
@@ -94,7 +94,7 @@
 {
 "name"              :     "Cartoon",
 "image"             :     "https://i.imgur.com/8wzvO4g.png",
-"url"               :     "https://pastebin.com/raw/CrNvBxgT",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "import": false
 }, 
 
