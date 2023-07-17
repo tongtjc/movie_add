@@ -107,10 +107,10 @@
 
 {
 "name"              :     "MainALL",
-"image"             :     "",
+"image"             :     "https://drive.google.com/uc?id=1keypVdDFuSFMW_katoU0bHk4ZVkUUKqg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/LuxdoMainALL",
 "import": false
-}, 
+},
 
 ]
 }
