@@ -105,5 +105,12 @@
 "import": false
 }, 
 
+{
+"name"              :     "MainALL",
+"image"             :     "",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/LuxdoMainALL",
+"import": false
+}, 
+
 ]
 }
