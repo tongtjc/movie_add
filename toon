@@ -3,6 +3,12 @@
 "image"             :     "https://i.pinimg.com/736x/00/d2/7c/00d27c9fbb16ce52114a1e8003fc6226.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
+{
+"name"              :     "มหาศึกคนชนเทพ ซีซั่น 2",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2.jpg?w=495&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ror2",
+"import": false
+},
 
 {
 "name"              :     "มหาเวทย์ผนึกมาร ภาค 2 ซับไทย",
