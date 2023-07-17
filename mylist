@@ -92,7 +92,7 @@
 }, 
 
 {
-"name"              :     "Cartoon",
+"name"              :     "Anime",
 "image"             :     "https://i.imgur.com/8wzvO4g.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "import": false
