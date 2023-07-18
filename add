@@ -83,3 +83,13 @@ https://m1free.inwstream.com:1936/movie3/Notre_Dame_on_Fire_2022/Notre_Dame_on_F
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
 https://m1free.inwstream.com:1936/movie3/The_Covenant_2023/The_Covenant_2023_thr_z1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/09/Prometheus-2012.jpg" , โพรมีธีอุส 2012
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://streamhls.com/view/367af75c-f347-54b9-98a0-af88dd0938d1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Alien-Covenant-2017.jpg" , เอเลี่ยน โคเวแนนท์ 2017
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://streamhls.com/view/bdc78a96-e880-541d-85a2-ecb81057528a.m3u8
