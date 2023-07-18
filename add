@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Flash-2023.jpg" , เดอะ แฟลช
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://streamhls.com/view/b879d1eb-8bbe-5891-b9e7-d4cba7b5e232.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Pook-Payon-2023.jpg" , ปลุกพยนต์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
