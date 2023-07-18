@@ -19,11 +19,6 @@ https://streamhls.com/view/585216f4-50ca-5a4a-9700-994f9e505b92.m3u8
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
 https://streamhls.com/view/8f4fedcf-ec46-5519-a1b1-6dd1900872ba.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/06/The-Last-Stand-2013.jpg" , นายอำเภอคนพันธุ์เหล็ก
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://anime-indy.com/
-https://streamhls.com/view/7a2d7539-50ea-5c18-96b5-02eae96d1641.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Mission-Impossible-7.jpg" , มิชชั่น อิมพอสซิเบิ้ล 7: ล่าพิกัดมรณะ ตอนที่หนึ่ง Zoom
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
