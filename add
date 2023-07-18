@@ -93,3 +93,13 @@ https://streamhls.com/view/367af75c-f347-54b9-98a0-af88dd0938d1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
 https://streamhls.com/view/bdc78a96-e880-541d-85a2-ecb81057528a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/03/Scream-VI-2023.jpg" , หวีดสุดขีด 2023
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://streamhls.com/view/36d8c16d-0a14-5e01-806a-6e502e6b4840.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/02/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg" , หวีดสุดขีด 2022
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://streamhls.com/view/ae860d63-ba36-54ea-8875-e17a7f1fe246.m3u8
