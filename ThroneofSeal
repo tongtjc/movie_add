@@ -4,6 +4,13 @@ image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
 "url"               :     "https://pastebin.com/raw/1dA6yMXn",
 "stations" : [
 {  
+name:"Throne of Seal 64",
+image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/XQxyfnXv7Y/video.mp4/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{  
 name:"Throne of Seal 63",
 image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
 "url":"https://indy.team-indy.tech:8443/vid/tsJBsEoeWu/video.mp4/playlist.m3u8",
