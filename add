@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/05/Fast-X-2023.jpg" , เร็ว…แรง ทะลุนรก 10 - Master
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/00aac720-0d87-5307-a143-a5dc93c579f8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023.jpg" , ทรานส์ฟอร์เมอร์ส 5 - Master
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://hlsp2p.com/view/d5c8b807-607d-5a7f-a3d8-04cfb337e5fe.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Shin-Kamen-Rider-2023.jpg" , ชิน มาสค์ไรเดอร์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.nubg2hhd.com/
@@ -68,11 +78,6 @@ https://streamhls.com/view/b16b5fa5-92a4-59ec-a8c4-a2914706cd3f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
 https://streamhls.com/view/5acdb868-037b-5cfd-82f3-4b667694423d.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023.jpg" , ทรานส์ฟอร์เมอร์ส 5 : กำเนิดจักรกลอสูร
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://anime-indy.com/
-https://streamhls.com/view/5111e993-2b84-592c-8854-d00d23fa8d67.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023v3.jpg" , รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
