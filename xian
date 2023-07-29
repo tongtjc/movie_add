@@ -1,15 +1,12 @@
 
 { 
-   "name": "w3u list",
-   "author": "w3u author",
-   "url": "https://pastebin.com/iZGHVCFR",
-   "image": "https://i.imgur.com/5rjqSPj.png",
-   "contact": "w3u@testmail.com",
-   "info": "Sample list for w3u tutorial using publicly available links",
+   "name": "ชีวิตประจำวันของราชาแห่งเซียน 1-3",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/xian",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/xian-wang-de-ri-chang-sheng-huo.jpg",
    "groups": [ 
 
   {
-   "name": "Xian Wang De Ri Chang Sheng Huo",
+   "name": "Xian Wang De Ri Chang Sheng Huo 1",
    "info": "Xian Wang De Ri Chang Sheng Huo ชีวิตประจำวันของราชาแห่งเซียน ตอนที่ 1-15 พากย์ไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/xian-wang-de-ri-chang-sheng-huo.jpg",
    "stations": [
