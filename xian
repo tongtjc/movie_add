@@ -1,3 +1,13 @@
+
+{ 
+   "name": "w3u list",
+   "author": "w3u author",
+   "url": "https://pastebin.com/iZGHVCFR",
+   "image": "https://i.imgur.com/5rjqSPj.png",
+   "contact": "w3u@testmail.com",
+   "info": "Sample list for w3u tutorial using publicly available links",
+   "groups": [ 
+
   {
    "name": "Xian Wang De Ri Chang Sheng Huo",
    "info": "Xian Wang De Ri Chang Sheng Huo ชีวิตประจำวันของราชาแห่งเซียน ตอนที่ 1-15 พากย์ไทย",
@@ -292,3 +302,6 @@
     }
    ]
   }
+
+]
+}
