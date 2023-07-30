@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/b3833b9a5d69493cc9ad172b4e7cf7a4.jpg" , 55
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
+https://indy.team-indy.tech:8443/vid/si6A46ujl7/video.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/b3833b9a5d69493cc9ad172b4e7cf7a4.jpg" , 54
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
