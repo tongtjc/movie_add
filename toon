@@ -17,12 +17,6 @@
 "import": false
 },
 {
-"name"              :     "ฮันมะ บากิ ภาค 2 พากย์ไทย",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-4.jpg?w=495&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ba2",
-"import": false
-},
-{
 "name"              :     "มหาศึกคนชนเทพ ซีซั่น 2",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2.jpg?w=495&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ror2",
@@ -73,7 +67,7 @@
  
 {
 "name"              :     "สัประยุทธ์ทะลุฟ้า 5",
-"image"             :     "https://pic-bstarstatic.akamaized.net/ugc/b3833b9a5d69493cc9ad172b4e7cf7a4.jpg",
+"image"             :     "https://cdn.pic.in.th/file/picinth/FB_IMG_1690864868013.jpeg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/fightBreak5",
 "import": false
 },
