@@ -3,7 +3,12 @@
 "image"             :     "https://i.pinimg.com/736x/00/d2/7c/00d27c9fbb16ce52114a1e8003fc6226.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
-
+{
+"name"              :     "คัมภีร์วิถีเซียน 1-2-3",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT",
+"import": false
+},
 {
 "name"              :     "Ni Tian Zhizun",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/09/Ni-Tian-Zhizun.jpg",
