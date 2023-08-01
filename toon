@@ -16,12 +16,6 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/xian",
 "import": false
 },
-{
-"name"              :     "มหาศึกคนชนเทพ ซีซั่น 2",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2.jpg?w=495&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ror2",
-"import": false
-},
 
 {
 "name"              :     "มหาเวทย์ผนึกมาร ภาค 2",
@@ -72,13 +66,7 @@
 "import": false
 },
  
-{
-"name"              :     "ตำนานจอมยุทธ์ภูตถังซาน",
-"image"             :     "https://image.tmdb.org/t/p/original/o80kcyeLqMHggWtcskg2E9hLQGB.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/Soulthai",
-"import": false
-},
- 
+
 {
 "name"              :     "ผนึกเทพบัลลังก์ราชันย์",
 "image"				:	  "https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
@@ -86,13 +74,7 @@
 "import": false
 },
  
-{
-"name"              :     "ดาบพิฆาตอสูร - หมู่บ้านช่างตีดาบ",
-"image"             :     "https://f.ptcdn.info/918/068/000/q8ksy1cn3M161261gvg-o.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/kime",
-"import": false
-},
- 
+
 {
 "name"              :     "โลกอันสมบูรณ์แบบ",
 "image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
