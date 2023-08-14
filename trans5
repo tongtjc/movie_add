@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2022/08/xing-chen-bian-stellar-transformation-season-5-lucifer-donghua-1.webp" , 27
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/CjFq1joxo6/video.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2022/08/xing-chen-bian-stellar-transformation-season-5-lucifer-donghua-1.webp" , 26
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
