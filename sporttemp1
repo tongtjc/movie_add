@@ -1,0 +1,609 @@
+{ 		
+"name": " ʘ‿ʘ  i3RAVO Sports",
+"author": "(Update realtime) By I3uckhumhyi",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WZQjHPLdpGmBa_TjfNlgErIeTDtCCFHeMg&usqp=CAU", 	 
+"url": "https://drive.google.com/uc?id=1cGm3M0pEO43C8J8jE0sqTX5j2h3AoI2g", 	 	
+"stations":   [ 	 
+
+{"name":" โปรแกรมถ่ายทอดฟุตบอลวันนี้", "image":"https://dooball66.com/wp-content/uploads/2020/07/cropped-logo.png", "url":"https://www.movie87hd.com/filter/all/?r=livetv_schedule", "embed": true},
+{"name":"โปรแกรมถ่ายทอดฟุตบอลวันนี้", "image":"https://dooball168-hd.com/img/logo/logo.png", "url":"https://dooball168-hd.com/index.php", "embed": true},
+
+{
+"name":"beIN SPORTS UHD", image:"https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?20180324104002", 
+"url":"https://edge02.odtv.az/o4/beinsport/playlist.m3u8", "info": "Server edge", "playInNatPlayer": "true"},
+{
+"name": "beIN SPORTS 1", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",
+"url":"https://live.vip-streaming.com:30443/dooball123.com/bein-sport-1-th/playlist.m3u8", "referer": "https://ufabetcompany.com", "info": "from ufabet", "playInNatPlayer": "true"},
+{
+"name": "beIN SPORTS 1", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"},
+{
+"name": "beIN SPORTS 1", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmfklstgerter5", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{
+"name": "beIN SPORTS 1", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",
+"url":"https://2nud.short.gy/beinsportsth1.m3u8", "referer": "https://www.ballnaja.com/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "info": "Server 1080p ?", "desktops": "true"},
+
+{
+"name": "beIN SPORTS 3","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/800px-Logo_beIN_SPORTS_3.png?20170227163528",
+"url":"https://live.vip-streaming.com:30443/dooball123.com/bein-sport-3-th/playlist.m3u8", "referer": "https://ufabetcompany.com", "info": "from ufabet", "playInNatPlayer": "true"},
+{
+"name": "beIN SPORTS 3",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/800px-Logo_beIN_SPORTS_3.png?20170227163528",
+"url":"https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai","desktop": "true"},
+{
+"name": "beIN SPORTS 3","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/800px-Logo_beIN_SPORTS_3.png?20170227163528",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein3&api_key=hmfklstgerter5", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+
+{
+"name":"True Premier HD1 ",  "image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", 
+"url":"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"},
+{
+"name":"True Premier hd 1/1", "image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",  
+"url":"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-1/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+{
+"name":"True Premier hd 1/2", image:"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", 
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1&api_key=hmfklstgerter5", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{
+"name":"True Premier hd 1/3", "image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",  
+"url":"https://www.livestream88.com/true-premier-football-hd-1/", "info": "Server livestream88", "playInNatPlayer": "true"},
+{
+"name": "Premier hd 1/4",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
+"url": "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8", "referer": "https://219.livedoomovies.com", "info": "ballnaja", "playInNatPlayer": "true"},
+
+{
+"name":"True Premier HD2", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", 
+"url":"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"}, 
+{
+"name":"True Premier hd 2/1", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", 
+"url":"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-2/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+{
+"name":"True Premier hd 2/2", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", 
+"url":"https://www.livestream88.com/true-premier-football-hd-2/", "info": "Server livestream88", "playInNatPlayer": "true"},
+{
+"name":"True Premier hd 2/3", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",
+ "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-2&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{
+"name": "Premier hd 2/4",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",
+"url":"https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-2/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+
+{
+"name": "True Premier HD3", 
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", 
+"url":"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai","desktop": "true"},
+{
+"name": "True Premier hd  3/1","image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", 
+"url":"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-3/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+{
+"name": "True Premier hd  3/2", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", 
+"url":"https://www.livestream88.com/true-premier-football-hd-3/", "info": "Server livestream88", "playInNatPlayer": "true"},
+{
+ "name": "True Premier hd  3/3", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", 
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-3&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+ {
+"name": "Premier hd  3/4", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",
+"url":"https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-3/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+
+{
+"name": "Premier HD4 ",
+"image"	:	"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8", "referer": "https://freetvdd.com/",  "info": "livescorethai", "desktop": "true"},
+{
+"name":	"True Premier hd  4/1",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", 
+"url":"https://www.livestream88.com/true-premier-football-hd-4/", "info": "Server livestream88", "playInNatPlayer": "true"},
+{
+"name": "True Premier hd  4/2",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", 
+"url":"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-4/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+{
+"name": "True Premier hd  4/3",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", 
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-4&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{ 
+"name": "True Premier hd  4/4", 
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",
+"url":"https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-4/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+
+{
+"name":	"True Premier HD5",
+"image"	:	"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"},
+{
+"name": "True Premier hd  5/1","image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png", 
+"url":"https://www.livestream88.com/true-premier-football-hd-5/", "info": "Server livestream88", "playInNatPlayer": "true"},
+{
+"name": "True Premier hd  5/2", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",  
+"url":"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-5/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+{
+ "name": "True Premier hd  5/3", "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png", 
+ "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+ {
+"name": "Premier hd  5/4 ",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",
+"url":"https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-5/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },	
+
+{
+"name": "TRUE SPORT HD",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8", "referer": "https://freetvdd.com", "info": "livescorethai", "desktop": "true"},
+{
+"name": "True Sport HD1/1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url": "https://live.vip-streaming.com:30443/dooball123.com/true-sport-1/playlist.m3u8",  "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport HD1/2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://www.livestream88.com/true-sport-hd-1/",  "info": "Server livestream88", "playInNatPlayer": "true"},	
+{
+"name": "True Sport HD1/3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",  
+"url":"https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-sport-1/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport HD1/4 ","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+
+{
+"name": "True SPORT HD2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url": "https://live.vip-streaming.com:30443/dooball123.com/true-sport-2/playlist.m3u8", "referer": "https://ufabetcompany.com/", "info": "ufabet", "playInNatPlayer" : "true"},
+{
+"name": "True Sport HD2/1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url": "https://www.livestream88.com/true-sport-hd-2/", "referer": "https://www.livestream88.com", "info": "livestream88", "playInNatPlayer" : "true"},
+{
+"name": "True Sport HD2/2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png", 
+"url":"https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-sport-2/playlist.m3u8", "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport HD2/3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8", "referer": "https://freetvdd.com", "info": "livescorethai", "desktop": "true"},
+{
+"name": "True Sport HD2/4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+
+{
+"name": "TRUE SPORT HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"},
+{
+"name": "True Sport HD3/1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url": "https://www.livestream88.com/sport/true-sport-hd-3", "referer": "https://www.livestream88.com/", "info": "livestream88", "playInNatPlayer": "true"},
+{
+"name": "True Sport HD3/2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", 
+"url": "https://live.vip-streaming.com:30443/dooball123.com/true-sport-3/playlist.m3u8",  "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport HD3/3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", 
+"url": "https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-sport-3/playlist.m3u8",  "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport HD3/4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+
+{
+"name": "TRUE SPORT HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"},
+{
+"name": "True Sport HD4/1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url": "https://www.livestream88.com/sport/true-sport-hd-4","referer": "https://www.livestream88.com/", "info": "livestream88", "playInNatPlayer": "true"},
+{
+"name": "True Sport HD4/2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://rr5---sn-w5nuxa-c33lk-5.googleuservideo.com/7mdooball_k1/truesporthd4_480p/playlist.m3u8", "referer": "https://7mdooball.com/", "info": "7mdooball"},
+{
+"name": "True Sport HD4/3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", "url":"https://www.wopep.com/02_sport4_480p/chunklist.m3u8","referer": "https://www.123-hd.com/"}, 
+{
+"name": "True Sport HD4/4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+
+{
+"name": "True SPORT HD 5","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8","referer": "https://freetvdd.com/","info": "livescorethai","desktop": "true"},
+{
+"name": "True Sport 5/1","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://live.vip-streaming.com:30443/dooball123.com/true-sport-5/playlist.m3u8",  "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport 5/2","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url": "https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-sport-5/playlist.m3u8","referer": "", "info": "ufabetcompany", "playInNatPlayer": "true"},
+{
+"name": "True Sport 5/3","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115541&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"name": "True Sport 5/4","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tsport5&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"}, 
+{
+"name": "True Sport HD 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":	"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8", "referer": "https://freetvdd.com/", "info": "livescorethai", "desktop": "true"},
+{
+"name": "True Sport HD 7/1","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.livestream88.com/sport/true-sport-hd-7", "referer": "https://www.livestream88.com/", "info": "livestream88", "playInNatPlayer": "true"},
+{
+"name": "True Sport HD 7/2","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://live.vip-streaming.com:30443/dooball123.com/true-sport-7/playlist.m3u8",  "info": "ufabet", "referer": "https://ufabetcompany.com" },
+{
+"name": "True Sport 7/3","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tsport7&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{
+"name": "True Sport 7/4","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115798&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+
+{
+"name": "SPOTV ","image": "https://www.spotv.net/images/calendar_spotv.png",
+"url":"https://live.vip-streaming.com:30443/ufabetcompany-live/true-spotv-1/playlist.m3u8", "referer": "https://ufabetcompany.net/",  "info": "Server ufabet", "playInNatPlayer": "true"},
+{
+"name": "SPOTV","image": "https://www.spotv.net/images/calendar_spotv.png", 
+"url":"https://www.livestream88.com/spotv1/", "referer": "", "info": "livestream88", "playInNatPlayer": "true"},
+{
+"name": "SPOTV","image": "https://www.spotv.net/images/calendar_spotv.png", 
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmfklstgerter5", "isHost": "true", "referer": "https://www.ufazeed.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{
+"name": "SPOTV","image": "https://www.spotv.net/images/calendar_spotv.png", 
+"url":"https://cdn.m-fixer.net:8082/live/th1/playlist.m3u8", "referer": "",  "info": "",  "desktop": "true"},
+{
+"name": "SPOTV2 ","image": "https://www.spotv.net/images/calendar_spotv_2.png", 
+"url":"	https://live.vip-streaming.com:30443/ufabetcompany-live/true-spotv-2/playlist.m3u8", "referer": "https://ufabetcompany.net/",  "info": "Server ufabet", "playInNatPlayer": "true"},
+{
+"name": "SPOTV2 ","image": "https://www.spotv.net/images/calendar_spotv_2.png", 
+"url":"https://www.livestream88.com/spotv2/", "referer": "", "info": "livestream88", "playInNatPlayer": "true"},
+{
+"name": "SPOTV2 ","image": "https://www.spotv.net/images/calendar_spotv_2.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmfklstgerter5", "isHost": "true", "referer": "https://www.ufazeed.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+{
+"name": "SPOTV2 ","image": "https://www.spotv.net/images/calendar_spotv_2.png", 
+"url":"https://cdn.m-fixer.net:8082/sporttv2/HctqhiYq92/playlist.m3u8", "referer": "",  "info": "",  "desktop": "true"},
+
+{
+"name": "MOTORVISION.TV HD","image": "https://www.livestream88.com/wp-content/uploads/motorvision.png",
+"url": "https://wacthstream.com/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDEyOjE5OjU3IFBNJmhhc2hfdmFsdWU9WmQ0VE0xanR1YVFYaWRWbFVjeXRqdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzUyNTMx", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
+{
+"name": "MOTORVISION.TV HD","image": "https://www.livestream88.com/wp-content/uploads/motorvision.png",
+"url": "http://45.126.83.51/uq2663/h/h09/01.m3u8", "playInNatPlayer": "true"}, 
+{
+"name": "TENNIS HD","image": "https://adma.tmsimg.com/assets/s60316_ll_h15_aa.png?w=360&h=270?w=100",
+"url":	"https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?_=1"},
+{
+"name": "True TENNIS HD","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url":	"https://live.vip-streaming.com:30443/dooball123.com/true-tennis/playlist.m3u8", "referer": "https://ufabetcompany.com/",  "info": "        Server ufabet", "playInNatPlayer": "true"},
+{
+"name": "True TENNIS HD","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url":	"https://www.livestream88.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-true-tennis/",  "info": "        Server livestream88", "playInNatPlayer": "true"},
+{
+"name": "True TENNIS HD","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
+
+{
+"name": "NBA TV HD",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+"url":"https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/video/1/77087779200.M.m4s", "referer": "https://blingtv.net/",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "desktop": "true"},
+{
+"name": "NBA TV HD","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+"url":	"https://live.vip-streaming.com:30443/dooball123.com/true-nba/playlist.m3u8", "referer": "https://ufabetcompany.com/",  "info": "        Server ufabet", "playInNatPlayer": "true"},
+{
+"name": "NBA TV HD","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+"url":"https://wacthstream.com/stream_live/672_NFL/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIzIDU6MjI6MzEgQU0maGFzaF92YWx1ZT03ZTQycHJwU0Fya1pXblFJZ1hpS05nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA0Njg=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
+{
+"name": "NBA TV HD","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+"url":	"http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/130632", "playInNatPlayer": "true"},
+
+{
+"name": "GOLF Channel","image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+"url"	:"http://live.apicold.com/streaming/02_golfhd_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjc3Nzc3N2YyZjJhMzM3MDc0NzQ3ODY=", "info": "Server apicold", "playInNatPlayer": "true"},
+{
+"name": "GOLF Channel","image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+"url"	:"https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",  "referer": "https://www.i-moviehd.com", "info": "Server livedoomovies", "playInNatPlayer": "true"},
+{
+"name": "GOLF Channel","image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+"referer":"https://freetvdd.com/", "url":"https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8"},
+{
+"name": "GOLF Channel","image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+"referer":"https://freetvdd.com/", "url":"https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8"},
+{
+"name": "3BB Sports One","image": "https://drive.google.com/uc?id=1ZylAzxg3tG5AHYbVzgkgQd232dyZF5lN",
+"url"	:"	https://cdn.m-fixer.net:8082/3bbsport/4I4dSsYJlK/playlist.m3u8",  "referer": "", "info": "", "playInNatPlayer": "true"},
+{
+"name": "3BB Sports One","image": "https://drive.google.com/uc?id=1ZylAzxg3tG5AHYbVzgkgQd232dyZF5lN",
+"url"	:"https://www.ballnaja.com/television/ais_3BB_Sports_One",  "referer": "https://ballnaja.com", "info": "Server ballnaja", "playInNatPlayer": "true"},
+{
+"name":"Sky Sports F1 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_F1_HD_-_Logo_2020.svg/512px-Sky_Sport_F1_HD_-_Logo_2020.svg.png?20200924172834", 
+"url" : "http://2.revportal.eu:80/SPIDER_1TMbvY/xRsJ5PSlAQ/171136",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"Sky Sports F1 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_F1_HD_-_Logo_2020.svg/512px-Sky_Sport_F1_HD_-_Logo_2020.svg.png?20200924172834", 
+"url" : "http://elitedns.xyz:8080/nmtv080/uwkzBrMBf5/508246",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"FOX Sport 1 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", 
+"url" : "http://elitedns.xyz:8080/nmtv080/uwkzBrMBf5/418178",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"FOX Sport 2 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", 
+"url" : "http://elitedns.xyz:8080/nmtv080/uwkzBrMBf5/418179",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"Eurosport 1 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/250px-Eurosport_1_Logo_2015.svg.png", 
+"url" : "http://mn-nl.mncdn.com:80/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"Eurosport 1 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/250px-Eurosport_1_Logo_2015.svg.png", 
+"url" : "http://edge05.beetv.kz:80/btv/SWM/Eurosport/Eurosport.m3u8",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"Eurosport 2 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png", 
+"url" : "http://mn-nl.mncdn.com:80/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8",  "referer":"", "info": "", "playInNatPlayer":"true" },
+{
+"name":"Eurosport 2 HD", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png", 
+"url" : "http://edge05.beetv.kz:80/btv/SWM/Eurosport2/Eurosport2.m3u8",  "referer":"", "info": "", "playInNatPlayer":"true" },
+
+{
+"name":"Premier 2 UHD", image:"https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/222-hub-premier-2.png", 
+"url":"	http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token", "info": "Server Xstream", "playInNatPlayer": "true"},
+{
+"name":"EDGE Sport HD", "image":"https://static.wikia.nocookie.net/tvfanon6528/images/5/5a/Edge_Sport_%282020-.n.v.%29.png/revision/latest?cb=20220607123815", 
+"url" : "https://edgesport-samsunguk.amagi.tv/playlist.m3u8", "referer": "", "info": "Server samsunguk", "playInNatPlayer": "true"},
+{
+"name":"EDGE Sport HD", "image":"https://static.wikia.nocookie.net/tvfanon6528/images/5/5a/Edge_Sport_%282020-.n.v.%29.png/revision/latest?cb=20220607123815", 
+"url" : "https://edgesports-sportstribal.amagi.tv/playlist.m3u8", "referer": "", "info": "Server sportstribal", "playInNatPlayer": "true"},
+
+{
+"name": "FITE", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",
+"url":"https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8", "referer": "",  "info": "", "desktop": "true"},
+{
+"name": "TRACE SPORT STARS","image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",
+"url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?_=1", "referer": "https://tv.xcoshop.com/"},
+{
+"name": "FIGHT SPORTS","image": "https://assets-jpcust.jwpsrv.com/watermarks/mYXSKbwT.png",
+"url": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?_=1", "referer": "https://tv.xcoshop.com/video/fight-sports/"},
+{
+"name": "FIGHT SPORTS","image": "https://assets-jpcust.jwpsrv.com/watermarks/mYXSKbwT.png",
+"url": "http://45.126.83.51/dr9445/h/h05/01.m3u8", "playInNatPlayer": "true"},
+{
+"name": "FIGHTBOX","image": "https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png",
+"url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8","referer": ""},
+{
+"name": "WWE HD","image": "https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png", 
+"url": "https://vod.wwe.com/vod/2021/,1080,720,540,432,360,288,/dchiraw1448_10_ntwk.m3u8"},
+{
+"name": "WWE HD","image": "https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png", 
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmfklstgerter5&nocache=", "isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "playInNatPlayer": "true"},
+{
+"name":"REDBULL TV", "image":"https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv", 
+"url" : "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8", "referer": "", "info": "Server akamaized", "playInNatPlayer": "true"},
+{
+"name":"astro supersport UHD", image:"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", 
+"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=348094&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+"name": "Astro Supersport 1", "url": "https://www.livestream88.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-astro-supersport-1/", "info": "Server livestream88", "referer": "" },
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+"name": "Astro Supersport 1", "url": "http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=485564&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+"name": "Astro Supersport 1", "url": "http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115615&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",
+"name": "Astro Supersport 2", "url": "https://www.livestream88.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-astro-supersport-2/", "info": "Server livestream88", "referer": "" },
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",
+"name": "Astro Supersport 2", "url": "http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115616&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"image": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",
+"name": "Astro Supersport 3", "url": "https://www.livestream88.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-astro-supersport-3/", "info": "Server livestream88", "referer": "" },
+{
+"image": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",
+"name": "Astro Supersport 3", "url": "http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115617&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",
+"name": "Astro Supersport 4", "url": "https://www.livestream88.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-astro-supersport-4/", "info": "Server livestream88", "referer": "" },
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",
+"name": "Astro Supersport 4",  "url": "http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115618&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
+{
+"image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png",
+"name": "Astro Supersport 5", "url": "https://rr5---sn-w5nuxa-c33lk-27.googleuservideo.com/ball8k_t4/astrosupersport5/playlist.m3u8", "info": "Server ufa77", "referer": "https://ufa77.tv/" },
+{
+"name": " SPORT°TV1",
+"image": "https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg",
+"url": "https://sportsembed.su/channels/pt/sporttv1.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true , "embed": false},
+{
+"name": "SPORT°TV2",
+"image": "https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg",
+"url": "https://sportsembed.su/channels/pt/sporttv2.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true , "embed": false},                
+{
+"name": "SPORT°TV3",
+"image": "https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg",
+"url": "https://sportsembed.su/channels/pt/sporttv3.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true , "embed": false},
+{
+"name": "SPORT°TV4",
+"image": "https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg",
+"url": "https://sportsembed.su/channels/pt/sporttv4.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true , "embed": false},
+{
+"name": "SPORT°TV5",
+"image": "https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg",
+"url": "https://sportsembed.su/channels/pt/sporttv5.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true ,  "embed": false},
+{
+"name": " ELEVEN SPORTS 1",
+"image": "https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",
+"url": "https://sportsembed.su/channels/pt/eleven1.php", "referer": "https://sportsembed.su/" ,  "playInNatPlayer": true , "embed": false},
+{
+"name": "ELEVEN SPORTS 2",
+"image": "https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png",
+"url": "https://sportsembed.su/channels/pt/eleven2.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true , "embed": false},                
+{
+"name": "ELEVEN SPORTS 3",
+"image": "https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",
+"url": "https://sportsembed.su/channels/pt/eleven3.php", "referer": "https://sportsembed.su/" , "playInNatPlayer": true , "embed": false},
+{
+"name"			:	"ESPN (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/espn.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-espn.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Premier Sports (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Football (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sport Main Event (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mainevent.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Bundesliga (DE)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Premier League (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports News (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-news.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Mix (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Golf (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-golf.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Arena (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-arena.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Action (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sport F1 (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Sky Sports Cricket (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-cricket.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Racing UK (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/racing-uk-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-racing.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"At The Races (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/at-the-races.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-attheraces.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"FOX Sports 1 (US)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"FOX Sports 2 (US)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Euro Sport (FR)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/fr-eurosport.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Euro Sport 2 (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"BT Sports 1 HD (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"BT Sports 2 HD (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"BT Sports 3 HD (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Liverpool FC TV",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"Chelsea TV (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/chelseas-tv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-chelseatv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+{
+"name"			:	"MUTV (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","desktop"		:	"true","playInNatPlayer"	:	"true"},
+
+{
+"name":"Buriram United", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BuriramUnited.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL031/HLS/TL031.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278","referer": "https://ais-vidnt.com/","playInNatPlayer": "true"},
+{
+"name":"Muangthong United", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL035/HLS/TL035.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278","referer": "https://ais-vidnt.com/","playInNatPlayer": "true"},
+{
+"name":"Chonburi FC", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//ChonburiFC.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL032/HLS/TL032.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278","referer": "https://ais-vidnt.com/","playInNatPlayer": "true"},
+{
+"name":"Chiangrai United", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//ChiangraiUnited.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL033/HLS/TL033.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278","referer": "https://ais-vidnt.com/","playInNatPlayer": "true"},
+{
+"name":"BG Pathum", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BGPathum.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL034/HLS/TL034.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278","referer": "https://ais-vidnt.com/","playInNatPlayer": "true"},
+
+{"name":"AISPLAY SPORTS 1", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png", 
+"url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"}, 
+{"name":"Bein 1", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png",
+"url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"},
+{"name":"Bein 2", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png",
+"url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"}, 
+{"name":"Bein 3 ", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",
+"url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"}, 
+{"name":"BALLTHAI 2", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",
+"url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"}, 
+{"name":"BALLTHAI 3", "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",
+"url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"}, 
+
+
+]}, 
+
+
