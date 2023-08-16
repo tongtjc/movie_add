@@ -79,6 +79,13 @@
 },
 
 {
+"name"              :     "Live Sport 9",
+"image"             :     "https://i.imgur.com/08JhXCn.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sporttemp1",
+"import": false
+},
+
+{
 "name"              :     "Acestream SPORT",
 "image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
 "url"               :     "https://drive.google.com/uc?id=1TXXFS5T7zhNQ-KCUEhd5Hf4-CBLOxiwY",
