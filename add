@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/07/thumb_2594.jpg" , แอนนาเบลล์ ตุ๊กตาผีกลับบ้าน
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/3c6c46bb-3280-5b2d-a86a-1f9c9204c428.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/The-Curse-of-La-Llorona-2019-1.jpg" , คำสาปมรณะจากหญิงร่ำไห้
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/00cee752-7db1-5221-a6f9-f7d8f678b901.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/The-Monkey-King-2023.jpg" , พญาวานร
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/65dffb14-0b56-5bbe-8700-6dbf997c12b6.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Heart-of-Stone-2023.jpg" , ฮาร์ท ออฟ สโตน
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
