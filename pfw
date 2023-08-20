@@ -4,6 +4,13 @@
 "url"               :     "https://pastebin.com/raw/mjZpaFAd",
 "stations" : [
 
+{  
+name:"Perfect World - 124",
+"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
+"url":"https://indy.team-indy.tech:8443/vid/0fbJ52PFTi/video.mp4/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 {  
 name:"Perfect World - 123",
