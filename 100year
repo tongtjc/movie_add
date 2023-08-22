@@ -6,7 +6,14 @@
   "stations": [
 
 
-
+{
+		"name"              :     " 57 ",
+		"info"				: 	  "ข้าก็แค่ฝึกวิชาหนึ่งแสนปี",
+		"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/05/One-Hundred-Thousand-Years-of-Qi-Refining-1.jpg?w=495&ssl=1",
+		"url":"https://indy.team-indy.tech:8443/vid/4dd4x3DQb/video.mp4/playlist.m3u8",
+		"referer": "",
+		"playInNatPlayer": "true"
+    },
 {
 		"name"              :     " 56 ",
 		"info"				: 	  "ข้าก็แค่ฝึกวิชาหนึ่งแสนปี",
