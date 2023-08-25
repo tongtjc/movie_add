@@ -1,8 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Chronicles-of-the-Ghostly-Tribe-2015.jpg" , อสูรยักษ์แห่งหุบเขามรณะ
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://hlsp2p.com/view/b12b8012-aaaf-5c9e-a4de-d1e28ec6df28.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/The-Only-Mom-2019.jpg" , มาร-ดา
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://hlsp2p.com/view/4fb5b937-c2b3-585c-9ac8-15f72b7755c2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/04/The-Covenant-2023.jpg" , เดอะ โคเวแนนท์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
-https://main.77player.xyz/m3u8/9ac0028715d889cd7442a9c2/9ac0028715d889cd7442a9c2438.m3u8
+https://hlsp2p.com/view/5f5bbfd3-621a-5dc5-b3d4-b08adc42ea21.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Blue-Beetle-2023.jpg" , บลู บีเทิล
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
