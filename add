@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Killer-Book-Club-2023.jpg" , ชมรมหนังสือฆาตกร
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://hlsp2p.com/view/ee883cb7-ba4b-5b10-8953-26aabaa077a0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Nakorn-Sawan-2018.jpg" , นคร-สวรรค์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
+https://hlsp2p.com/view/36743744-3ce2-5470-993f-708893ca6871.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Chronicles-of-the-Ghostly-Tribe-2015.jpg" , อสูรยักษ์แห่งหุบเขามรณะ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
