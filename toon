@@ -4,6 +4,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
 {
+"name"              :     "Baki 2",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-4.jpg?w=495&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ba2",
+"import": false
+},
+{
 "name"              :     "คัมภีร์วิถีเซียน 1-2-3",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/Fanren-Xiu-Xian-Chuan.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT",
