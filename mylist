@@ -58,6 +58,12 @@
 "import": false
 },
 
+{
+"name"              :     "Live Sport 6",
+"image"             :     "https://i.imgur.com/a7soBST.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sport1",
+"import": false
+},
 
 {
 "name"              :     "Acestream SPORT",
