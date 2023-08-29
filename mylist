@@ -66,6 +66,13 @@
 },
 
 {
+"name"              :     "Live Sport 7",
+"image"             :     "https://drive.google.com/uc?export=download&id=1eJiHObxi2K0LTH5GrM8fib4i0kQrxhsJ",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sport3",
+"import": false
+},
+
+{
 "name"              :     "Acestream SPORT",
 "image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
