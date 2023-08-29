@@ -5,7 +5,8 @@ http://dootvz.ddns.net:8080/clone11/123abc/1
 http://dootvz.ddns.net:8080/clone11/123abc/2
 #EXTINF:0,ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:0,http://dootvz.ddns.net:8080/clone11/123abc/4
+#EXTINF:0, TV 5
+http://dootvz.ddns.net:8080/clone11/123abc/4
 #EXTINF:0,T SPORT 7
 http://dootvz.ddns.net:8080/clone11/123abc/5
 #EXTINF:0,TPTV
@@ -30,7 +31,8 @@ http://dootvz.ddns.net:8080/clone11/123abc/14
 http://dootvz.ddns.net:8080/clone11/123abc/15
 #EXTINF:0,ONE 31
 http://dootvz.ddns.net:8080/clone11/123abc/16
-#EXTINF:29,http://dootvz.ddns.net:8080/clone11/123abc/17
+#EXTINF:0,29
+http://dootvz.ddns.net:8080/clone11/123abc/17
 #EXTINF:0,CH 3
 http://dootvz.ddns.net:8080/clone11/123abc/18
 #EXTINF:0,AMARIN 34
@@ -175,8 +177,10 @@ http://dootvz.ddns.net:8080/clone11/123abc/111
 http://dootvz.ddns.net:8080/clone11/123abc/112
 #EXTINF:0,WORLD OF SCIENCE
 http://dootvz.ddns.net:8080/clone11/123abc/113
-#EXTINF:0,http://dootvz.ddns.net:8080/clone11/123abc/114
-#EXTINF:0,http://dootvz.ddns.net:8080/clone11/123abc/116
+#EXTINF:0,
+http://dootvz.ddns.net:8080/clone11/123abc/114
+#EXTINF:0,
+http://dootvz.ddns.net:8080/clone11/123abc/116
 #EXTINF:0,GEM
 http://dootvz.ddns.net:8080/clone11/123abc/117
 #EXTINF:0,CCM
@@ -283,9 +287,12 @@ http://203.154.243.31:8081/live/hisport/index.m3u8
 http://dootvz.ddns.net:8080/clone11/123abc/173
 #EXTINF:0,V CHANNEL
 http://dootvz.ddns.net:8080/clone11/123abc/174
-#EXTINF:0,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:0,http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:0,http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:0,Attv
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:0,Dragon
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:0,Jomyut
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF:0,Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:0,ABC 2
@@ -448,7 +455,6 @@ http://dootvz.ddns.net:8080/clone11/123abc/14853
 http://dootvz.ddns.net:8080/clone11/123abc/15682
 #EXTINF:0,Astro Arena
 http://dootvz.ddns.net:8080/clone11/123abc/1185
-#EXTINF:0,http://dootvz.ddns.net:8080/clone11/123abc/17242
 #EXTINF:0,SkySports F1
 http://dootvz.ddns.net:8080/clone11/123abc/17324
 #EXTINF:0,DHARMA TV
