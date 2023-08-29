@@ -1,0 +1,1583 @@
+{
+"name"		: "ลักดู",
+"author"	: "update 20/08/66 ฟรีไม่เก็บเงิน Luxdoo copy ",
+"image"		: "https://drive.google.com/uc?id=19oeAX0kf_LxYofdD-G0vj9UPCHdLpHMr",
+ 
+stations	: [
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"		      	: 	"https://media.wacthstream.com/dvr/600_eng1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info"			: 	"wacth.tv 1080P",
+"referer"		: 	"https://wacth.tv/"
+},
+
+{
+name    			:    	"True Premier Football HD 1",
+image   			:    	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   			:    	"http://ip2121.com:8081/live/eng1/playlist.m3u8",
+"info"				:    	"ip2121 1080P", 
+"referer"			:    	""
+},
+
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/025",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"watchTV 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl1-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115760&extension=ts&play_token",
+ "userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"info"			: 	"kungtv 720P"},
+
+
+
+
+{
+"name"			:	"True Premier Football HD 1 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl1x&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+
+{
+"name"		       :	"True Premier Football HD 1",
+"image"		       :	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"                  :       "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8", 
+"referer"              :       "https://www.youdooball.com", 
+"info"                 :       "livedoomovies 720P", 
+"userAgent"            : "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{
+"name"		       :       "True Premier Football HD 1",
+"image"		       :       "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"                  :       "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8", 
+"referer"              :       "https://www.keepmovie.me", 
+"info"                 :       "livedoomovies 720P", 
+"userAgent"            :       "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{
+name    			:    	"True Premier Football HD 1",
+image   			:    	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   			:    	"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
+"info"				:    	"livescorethai 720P", 
+"referer"			:    	"https://freetvdd.com/"
+},
+
+
+
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-1/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "True Premier Football HD 1",
+"info"			:    "livestream88 540P", 
+image                   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf1/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name"			:	"True Premier Football HD 2",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/026",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"watchTV 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"			:	"True Premier Football HD 2",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl2-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+"name"			:	"True Premier Football HD 2 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl2x&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+"name"			:	"True Premier Football HD 2 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115762&extension=ts&play_token",
+ "userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"info"			: 	"kungtv 720P"},
+
+
+
+{
+name    		:    	"True Premier Football HD 2",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   		:    	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+{
+"name"			:	"True Premier Football HD 2",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-2/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name                    :    "True Premier Football HD 2",
+"info"			:    "livestream88 540P", 
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf2/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+
+
+{
+"name"			:	"True Premier Football HD 2",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 480p",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+{
+"name"			:	"True Premier Football HD 2 FHD",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl2-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"FHD dooball66s",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+
+
+
+
+
+
+
+
+{
+"name"			:	"True Premier Football HD 3",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/027",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"watchTV 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+{
+"name"			:	"True Premier Football HD 3",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+"name"			:	"True Premier Football HD 3 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3x&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+{
+"name"			:	"True Premier Football HD 3 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115768&extension=ts&play_token",
+ "userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"info"			: 	"kungtv 720P"},
+
+
+{
+name    		:    	"True Premier Football HD 3",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   		:    	"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+{
+"name"			:	"True Premier Football HD 3",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-3/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "True Premier Football HD 3",
+"info"			:    "livestream88 540P", 
+image   		:    "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf3/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+
+{
+"name"			:	"True Premier Football HD 3",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 480p",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ {
+"name"			:	"True Premier Football HD 4",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/028",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"watchTV 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Premier Football HD 4",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl4-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+"name"			:	"True Premier Football HD 4 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl4x&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+name                    :    "True Premier Football HD 4",
+"info"			:    "livestream88 720P", 
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf3/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+  {
+name    		:    	"True Premier Football HD 4",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"   		:    	"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+
+ {
+"name"			:	"True Premier Football HD 4",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-4/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+ {
+"name"			:	"True Premier Football HD 4",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 480p",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+name    			:    	"True Premier Football HD 5",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/029",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"watchTV 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"			:	"True Premier Football HD 5",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl5-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+ {
+"name"			:	"True Premier Football HD 5",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"			:	"True Premier Football HD 5 ",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl5x&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+ 
+
+
+{
+name    			:    	"True Premier Football HD 5",
+image   			:    	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"   			:    	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"			: 	"https://freetvdd.com/"
+},
+
+
+ {
+"name"			:	"True Premier Football HD 5",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-5/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "True Premier Football HD 5",
+"info"			:    "livestream88 540P", 
+image   		:    "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf3/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+name              	:       "True Sport 1(TH)",
+image             	:       "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/035",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name              	:       "True Sport 1(TH)",
+image             	:       "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/044",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name              :       	"True Sport 1(TH)",
+image             :       	"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd1&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+{
+name              	:       "True Sport 1(TH)",
+image             	:       "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd1-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+name                    :    "True Sport 1(TH)",
+"info"			:    "livestream88 720P", 
+image   		:    "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd1/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+{
+name              	:       "True Sport 1(TH)",
+image             	:       "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name              :       	"True Sport 1(TH)",
+image             :       	"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"		      : "https://media.wacthstream.com/dvr/666_Ts_HD1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info": "wacth.tv 720P",
+"referer": "https://wacth.tv/"
+},
+
+
+{
+name    		:    	"True Sport 1(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"   		:    	"https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8",
+"info"		: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+ 
+
+{
+name              	:       "True Sport 1(TH)",
+image             	:       "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-sport-1/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+{
+name    		:    	"True Sport 2(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd2&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+name    		:    	"True Sport 2(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"		      : "https://media.wacthstream.com/dvr/667_Ts_HD2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info": "wacth.tv 720P",
+"referer": "https://wacth.tv/"
+},
+
+{
+name    		:    	"True Sport 2(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name    		:    	"True Sport 2(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"   		:    	"https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8",
+"info"		: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+
+{
+name    		:    	"True Sport 2(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/036",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name    		:    	"True Sport 2(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-sport-2/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "True Sport 2(TH)",
+"info"			:    "livestream88 540P", 
+image   		:    "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd2/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+name    		:       "True Sport 3(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/037",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name    		:       "True Sport 3(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd3-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+name                    :    "True Sport 3(TH)",
+"info"			:    "livestream88 720P", 
+image   		:    "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd3/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+{
+name    		:       "True Sport 3(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name    		:    	"True Sport 3(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"		      : "https://media.wacthstream.com/dvr/668_Ts_HD3/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info": "wacth.tv 576P",
+"referer": "https://wacth.tv/"
+},
+
+
+
+{
+name    		:       "True Sport 3(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd3&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+name    		:    	"True Sport 3(TH)",
+image   		:    	"https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"  		:    	"https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
+"info"		: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+
+{
+name    		:       "True Sport 3(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-sport-3/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123.com 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+name    		:       "True Sport 4(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/038",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 720P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name    		:       "True Sport 4(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+ {
+name		:	"True Sport 4(TH)",
+image		:	"https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
+"url"		:  	"https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8",
+"info"	: 	"livescorethai 720P",
+ "referer"	: 	"https://freetvdd.com/"
+},
+
+ {
+name		:	"True Sport 4(TH)",
+image		:	"https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
+"url"		      : "https://media.wacthstream.com/dvr/669_Ts_HD4/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info": "wacth.tv 404P",
+"referer": "https://wacth.tv/"
+},
+
+
+ 
+
+
+
+
+
+
+
+{
+"name"			: 	"True Sport 5 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/039",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 720P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+{
+"name"			: 	"True Sport 5 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-sport-5/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+{
+name    		:       "True Sport 5(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsport5&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+"name"		:	"True Sport 5 (TH)",
+"image"		:	"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			: 	"True Sport 5 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 480P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+{
+"name"			: 	"True Sport 5 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"		      : "https://media.wacthstream.com/dvr/684_TSP5/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info": "wacth.tv 404P",
+"referer": "https://wacth.tv/"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name"			: 	"True Sport 7 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/040",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 576P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"			: 	"True Sport 7 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-sport-7/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			: 	"True Sport 7 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 480P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name    		:       "True Sport 7(TH)",
+image   		:       "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsport7&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 480P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+"name"			:	"True Sport 7 (TH)",
+"image"			:	"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livescorethai 480P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			: 	"True Sport 7 (TH)",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"		      : "https://media.wacthstream.com/dvr/686_TSP7/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info": "wacth.tv 404P",
+"referer": "https://wacth.tv/"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/030",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+name			:	"BEIN1 FHD ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein1-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+
+
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://media.wacthstream.com/dvr/607_BEIN1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"referer"		:	"https://wacth.tv",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"info"		: 	"wacth.tv 720P", 
+"playInNatPlayer":"true" },
+ 
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name			:	"BEIN1",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein1c&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+name			:	"BEIN1 ENG",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein1eng&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/bein-sport-1-th/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "BEIN1 ",
+"info"			:    "livestream88 540P", 
+image   		:    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein1/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			: 	"https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+"userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"referer"		: 	"https://warpdooball.net/",
+"ibm"			:	"m3u8",
+"info"			: 	"warpdooball 480P"
+},
+
+
+{
+name			:	"BEIN1 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url"			:	"https://cdn1.aws-live-streaming.com/true/bein1/playlist.m3u8",
+"referer"		:	"https://true24hd.net",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"true24hd 480P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+
+{
+name			:	"BEIN2 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/bein2/playlist.m3u8",
+"referer"               :    "https://www.andaman888th.com/"
+},
+
+
+
+
+
+{
+name:"BEIN2 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/031",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+{
+name			:	"BEIN2 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+"url"			: 	"https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd2_480p/chunks.m3u8",
+"userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"referer"		: 	"",
+"ibm"			: 	"m3u8",
+"info"			:	"540P"
+},
+
+
+{
+name:"BEIN2 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+
+{
+name			:	"BEIN2 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+name			:	"BEIN3",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein3-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+{
+name			:	"BEIN3 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			: 	"https://cdn4k.googlecdn.live/4k/bein3/playlist.m3u8?wmsAuth=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDk6MzM6MzMgQU0maGFzaF92YWx1ZT1HT1lGT0ZOU1grd1RiSXdqNTlWY1BRPT0mdmFsaWRtaW51dGVzPTI=",
+"userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"referer"		: 	"https://soccertv4k.com/",
+"ibm"			:	"m3u8",
+"info"			: 	"soccertv4k 1080P"
+},
+
+
+
+{
+name			:	"BEIN3 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			: 	"https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8",
+"userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"referer"		: 	"https://warpdooball.net/",
+"ibm"			:	"m3u8",
+"info"			: 	"warpdooball 1080P"
+},
+
+
+{
+name			:	"BEIN3 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			:	"https://media.wacthstream.com/dvr/608_BEIN2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"referer"		:	"https://wacth.tv",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"info"		: 	"wacth.tv 720P", 
+"playInNatPlayer":"true" },
+
+
+
+
+
+
+
+
+{
+name:"BEIN3 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name			:	"BEIN3 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein3x&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+{
+name			:	"BEIN3 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/bein-sport-3-th/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "BEIN3 ",
+"info"			:    "livestream88 540P", 
+image   		:    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein2/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+{
+name			:	"BEIN3 ",
+image			:	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/032",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name"			: 	"ID-STATION",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2023/02/06/03fd7700-a5c0-11ed-a358-099f80363291_webp_320.webp",
+"url"			:	"https://mobetz.com/doball/ch399/",
+"referer"		:	"https://mobetz.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"info"			: 	"mobetz 480P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			: 	"ID-STATION",
+"image"			: 	"https://cms.dmpcdn.com/livetv/2023/02/06/03fd7700-a5c0-11ed-a358-099f80363291_webp_320.webp",
+"url"			:	"https://ufa77.tv/channel?ch=trueidstation",
+"referer"		:	"https://ufa77.tv/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"info"			: 	"ufa77 480P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name"         	: 	"spotv1",
+"image"         	: 	"https://i.imgur.com/BRZ8rmA.png",
+"url"			:	"https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{"name"         	: 	"spotv1",
+"image"         	: 	"https://i.imgur.com/BRZ8rmA.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-spotv&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{"name"         	: 	"spotv1",
+"image"         	: 	"https://i.imgur.com/BRZ8rmA.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-spotv-1/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+name                    :    "spotv1",
+"info"			:    "livestream88 540P", 
+"image"         	:    "https://i.imgur.com/BRZ8rmA.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+{"name"         	: 	"spotv1",
+"image"         	: 	"https://i.imgur.com/BRZ8rmA.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/033",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{"name"         	: 	"spotv1",
+"image"         	: 	"https://i.imgur.com/BRZ8rmA.png",
+"url"			:	"http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extension=ts&play_token=tucOsc3ivU", 
+"info"			: 	"livein1 720P",
+"playInNatPlayer"	: 	"true"},
+
+
+
+{
+"name"                  :     	"SPOTV2",
+"image"                 :     	"https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-spotv2-fhd&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 1080P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+{
+"name"                  :     	"SPOTV2",
+"image"                 :     	"https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"			:	"https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-spotv2&api_key=hmcb4rf66f",
+"isHost"		: 	"true", 
+"referer"		: 	"https://dooball66s.com/", 
+"info"			: 	"dooball66s 720P",
+"userAgent"		: 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer"	: 	"true"},
+
+
+
+{
+"name"                  :     	"SPOTV2",
+"image"                 :     	"https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"			:	"https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"referer"		:	"www.youdooball.com",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livedoomovies 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"                  :     	"SPOTV2",
+"image"                 :     	"https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-spotv-2/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"                  :    "SPOTV2",
+"info"			:    "livestream88 540P", 
+"image"                 :    "https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"                   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv2/playlist.m3u8",
+"referer"               :    "https://livestream88.com/"
+},
+
+
+{
+"name"                  :     	"SPOTV2",
+"image"                 :     	"https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/034",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"                  :     	"SPOTV2",
+"image"                 :     	"https://sv1.picz.in.th/images/2022/10/07/p2qiND.png",
+"url"			:	"http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=tucOsc3ivU", 
+"info"			: 	"livein1 480P",
+"playInNatPlayer"	: 	"true"},
+
+
+
+{
+"name"			:	"  FwSport",
+"image"			:	"https://drive.google.com/uc?id=1MVaIeIdHgDWRLsOgnliuvHqtxsAoRZhQ",
+"url"           :   "https://www.inwiptv.com/player_demo.php?channel=92941",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"info"			: 	"inwiptv  1080P", 
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+
+{
+"name"		: "3BB SPORTONE",
+"image"		: "https://drive.google.com/uc?id=1pfPrT4-T69TVpD6SrAJrwXRb1UZDNK-T",
+"url"			:	"http://dootvz.ddns.net:8080/3120600/3120600/049",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"ufabet 1080P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+
+
+
+
+
+
+
+]
+}
