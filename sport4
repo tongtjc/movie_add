@@ -27,7 +27,7 @@ https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" , True Premier Football HD 1
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-s2.onlineprostream.com:8809/v5/736ZeQtK3bKT4w4sDn_SdA/1693293790/17c9a689561e490556ac03827003212f/ISteqOUbEgDVVhET7mg-0Q/1693304545/live/v1-origin/dooball66-epl1_720/playlist.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl1-fhd&api_key=hmcb4rf66f
 
 
 
@@ -46,7 +46,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" , True Premier Football HD 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-s4.onlineprostream.com:8824/v5/4fiUW_2Gd2AiJcpFj-rZdg/1693294325/0fbfd1c57105ae026aa014981cfedc5b/kWdltsWV04DYKLXSMpzruQ/1693305080/live/lx-origin/dooball66-epl2_720/chunks.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl2-fhd&api_key=hmcb4rf66f
 
 
 
@@ -65,7 +65,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" , True Premier Football HD 3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-bb49.onlineprostream.com:8802/v5/6F5F117J0j1INTIFWJbA3g/1693294315/17c9a689561e490556ac03827003212f/x-1co2m1b51DG_PzRh5Q6A/1693305070/live/v1-origin/dooball66-epl3_720/chunks.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3-fhd&api_key=hmcb4rf66f
 
 
 
@@ -84,7 +84,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png" , True Premier Football HD 4
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-s5.onlineprostream.com:8804/v5/N3f8DwpCvM166WJdauUmmQ/1693294268/0fbfd1c57105ae026aa014981cfedc5b/2htcLspXjGWfJl_hgQBVzg/1693305023/live/v1-origin/dooball66-epl4_720/chunks.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl4-fhd&api_key=hmcb4rf66f
 
 
 
@@ -102,38 +102,53 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" , True Premier Football HD 5
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-s5.onlineprostream.com:8827/v5/mH2DOVDS22IjKeCeDCOsDw/1693294251/17c9a689561e490556ac03827003212f/hxYCmHsMmwBPyLakNfsxGA/1693305006/live/lx-origin/dooball66-epl5_720/chunks.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl5-fhd&api_key=hmcb4rf66f
 
 
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" , BEIN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319" , BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball123.com/
 https://live.vip-streaming.com:30443/dooball123.com/bein-sport-1-th/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" , BEIN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319" , BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=www.youdooball.com
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" , BEIN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319" , BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-s2.onlineprostream.com:8832/v5/h529_TF6B2HgWNko-swnMQ/1693294212/0fbfd1c57105ae026aa014981cfedc5b/hj5xV7unVZOZEJ1uwg6v9Q/1693304967/live/dx-origin/dooball66-bein1_720/chunks.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein1c&api_key=hmcb4rf66f
 
 
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" , BEIN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" , BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball123.com/
 https://live.vip-streaming.com:30443/dooball123.com/bein-sport-3-th/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" , BEIN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" , BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://edge-s4.onlineprostream.com:8802/v5/XAjUylYledM6beo87BhU-g/1693294179/17c9a689561e490556ac03827003212f/vouCMdj01X60YNTS2nn4kA/1693304934/live/v1-origin/dooball66-bein2_720/chunks.m3u8
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009" , BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball123.com/
+https://live.vip-streaming.com:30443/dooball123.com/bein-sport-3-th/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009" , BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009" , BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein3x&api_key=hmcb4rf66f
