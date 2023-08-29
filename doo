@@ -257,12 +257,14 @@ http://dootvz.ddns.net:8080/clone11/123abc/153
 http://dootvz.ddns.net:8080/clone11/123abc/154
 #EXTINF:0,CCTV 4
 http://dootvz.ddns.net:8080/clone11/123abc/155
-#EXTINF:0,TVB https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
+#EXTINF:0,TVB 
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
 #EXTINF:0,B4U MOVIES
 http://dootvz.ddns.net:8080/clone11/123abc/157
 #EXTINF:0,THRILL
 http://dootvz.ddns.net:8080/clone11/123abc/159
-#EXTINF:0,http://dootvz.ddns.net:8080/clone11/123abc/160
+#EXTINF:0,TVMall
+http://dootvz.ddns.net:8080/clone11/123abc/160
 #EXTINF:0,FAST FUN BOX
 http://dootvz.ddns.net:8080/clone11/123abc/161
 #EXTINF:0,SIAM NEWS
