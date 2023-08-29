@@ -1,0 +1,536 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",TRUE BALL THAI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=baygonhero1
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",TRUE BALL THAI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=baygonhero2
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",TRUE BALL THAI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=baygonhero3
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive1.png",BALL THAI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive1&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive2.png",BALL THAI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive2&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive3.png",BALL THAI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive3&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive4.png",BALL THAI 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive4&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive5.png",BALL THAI 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive5&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive6.png",BALL THAI 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive6&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive7.png",BALL THAI 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive7&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive8.png",BALL THAI 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive8&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive9.png",BALL THAI 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive9&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-aislive10.png",BALL THAI 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-aislive10&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119170702_bein1englisharab.png",beIN Sports 1 English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=bein1englisharab
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219100833_bein1.jpg",BEIN SPORT 1 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://live.vip-streaming.com:30443/ufabetcompany-live/bein-sport-1-th/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119163200_bein2englisharab.png",beIN Sports 2 English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/stream90.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png",BEIN SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein3.png",BEIN SPORT 3 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein3&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119163111_bein3englisharab.png",beIN Sports 3 English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/stream46.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-spotv1.png",SPOTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-spotv&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-spotv2&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/th-idstation.png",ID Station
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=th-idstation&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl1&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+
+#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=epl-2&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=epl-3&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=epl-4&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",TrueSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=truesporthd
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",TrueSport 1(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://live.vip-streaming.com:30443/ufabetcompany-live/true-sport-1/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014333_truesport2.jpg",TrueSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://live.vip-streaming.com:30443/ufabetcompany-live/true-sport-2/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014333_truesport2.jpg",TrueSport 2(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd2&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport3.jpg",TrueSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport3.jpg",TrueSport 3(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-tsporthd3&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",TrueSport HD4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=truesporthd4
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",TrueSport HD4(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://live.vip-streaming.com:30443/ufabetcompany-live/true-sport-4/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014353_truesport5.jpg",TrueSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014353_truesport5.jpg",TrueSport 5(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=truesport5
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014414_truesport7.jpg",TrueSport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014414_truesport7.jpg",TrueSport 7(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=truesport7
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png",True Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png",True Tennis(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222170530_golfchannel.jpg",Golf Channel Thailand 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ufa77.tv/channel?ch=golfchannel
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222170530_golfchannel.jpg",Golf Channel Thailand(สำรอง1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/golf-channel-thailand-plus.jpg",Golf Channel Thailand Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.ballnaja.com/television/GOLF%20CHANNEL%20PLUS
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-golf2.png",Golf Channel Thailand 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=hd-golf2&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+
+#EXTINF:-1 tvg-logo="https://static-dfb-2021.b-cdn.net/s-premier-league.png",SuperSport Epl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/superpremier.php
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-nba.png",NBA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://youdooball.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-nba.png",NBA HD(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=us-nba&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png",Sky Sports Football UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/skyfootball.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png",Sky Sports Football UK(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&amp;api_key=kmf743jnd
+#EXTVLCOPT:http-referrer=https://ufac4.net/
+
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-epl.png",Sky Sports Premier League UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/stream130.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-epl.png",Sky Sports Premier League UK(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=uk-skysports-epl&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-mainevent.png",Sky Sports Main Event UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/stream38.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-mainevent.png",Sky Sports Main Event UK(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=uk-skysports-mainevent&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-arena.png",Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/skyarena.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-arena.png",Sky Sports Arena(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&amp;api_key=hmfklstgerter5&amp;nocache
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-f1.png",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/skyf1.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-f1.png",Sky Sports F1(สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=uk-skysports-f1&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",TNT Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=uk-btsport1hd&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",TNT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/tntsport2.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647385037/5712.png",TNT Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/tntsport3.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1667415893.png",TNT Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/btsport4.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/uk-mutv.jpg",MU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20201015234027_1602779966739.jpg",LFC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://d.daddylivehd.sx/embed/stream-826.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXnO8ojVWTiB14uFB5sVRuiR4EZosXco-WQ&amp;usqp=CAU",RM TV(ES)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXnO8ojVWTiB14uFB5sVRuiR4EZosXco-WQ&amp;usqp=CAU",RM TV(EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",FS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/fox1.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/fox2.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-espn1.png",ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&amp;api_key=hmfklstgerter5&amp;nocache=
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-espn2.png",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=us-espn2&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png",BBC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/bbc1.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/ca-tsn1.png",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&amp;api_key=hmfklstgerter5&amp;nocache=
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/ca-tsn2.png",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&amp;api_key=hmfklstgerter5&amp;nocache=
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/ca-tsn3.png",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&amp;api_key=hmfklstgerter5&amp;nocache=
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/ca-tsn4.png",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&amp;api_key=hmfklstgerter5&amp;nocache=
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/ca-tsn5.png",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&amp;api_key=hmfklstgerter5&amp;nocache=
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/nz-skysport1.png",Sky Sports 1 New Zealand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/sky1nz.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/nz-skysport7.png",Sky Sports 7 New Zealand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/sky7nz.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/nz-skysport8.png",Sky Sports 8 New Zealand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/sky8nz.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten1.png",SONY TEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=in-ten1&amp;api_key=hmfklstgerter5
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png",USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/usa.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a95.png",Viaplay Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/viaplay1.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1442.png",Viaplay Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/viaplay2.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/itv-hd.png", ITV 1 HD (UK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/itv1.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-eurosport.png",Eurosport 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/eurosport1uk.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-eurosport2.png",Eurosport 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://maxsport.one/eurosport2uk.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",Sport TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/sport1pt.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/b8KHlAhwrs9mWEgWKio4jIpRz4FIroktv-station-pt-sport-tv-2-451.png",Sport TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/sport2pt.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/hkNVq0iMYezzlJSZrqcER00IcfX0R20a452.png",Sport TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/sport3pt.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/27ciPhVX9zapqwuq3ZNzRmYYncSQKPMa453.png",Sport TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/sport4pt.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/9xskHk02nFICupJ7E40kunITfhe090dtv-station-sport-tv-5-454.png",Sport TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://primasport.one/sport5pt.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://gdplayer.tv/assets/img/logo/supersport-football.png",SuperSport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://d.daddylivehd.sx/embed/stream-56.php
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png",3BB SPORTS ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.ballnaja.com/television/3BB%20Sports%20One
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://gdplayer.tv/assets/img/logo/astro-arena.png",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/astro-arena-1-my/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg",FW Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=92941
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://www.ijubes.com/wp-content/themes/plant/img/tvonline/skynethd.png",Skynet Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsportshd&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-272.png",Skynet Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsports1&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-273.png",Skynet Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsports2&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-274.png",Skynet Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsports3&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-275.png",Skynet Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsports4&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-276.png",Skynet Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsports5&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-277.png",Skynet Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynetsports6&amp;api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://mitvhacks.com/wp-content/uploads/2022/04/WWE-Network-on-Mi-TV-Stick-1.png",WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel=my-wwe&amp;api_key=hmcb4rf66f
+#EXTVLCOPT:http-referrer=https://dooball66s.com/"
