@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken-2023.jpg" , รูบี้ สาวน้อยอสูรทะเล
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/f08cb3e4-5e58-596c-b71c-7d183d8bfb9e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023.jpg" , อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/0773b77e-b2d2-58ca-9344-be73d6e84612.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/The-Boogeyman-2023.jpg" , เดอะ บูกี้แมน
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/d1d84548-bbac-58cc-8150-ff9c3882bfef.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/Ride-On-2023.jpg" , ควบสู้ฟัด
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/5538fa99-987c-57e3-8484-c918153ce129.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Cobweb-2023.jpg" , ก๊อก ก๊อก.. เคาะเรียกผี
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/a0c2d5f2-bc7f-5c1a-9e8b-05669125742e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/The-Meg-2-2023.jpg" , เม็ก 2 อภิมหาโคตรหลามร่องนรก
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/d34f9d0c-97f7-531a-a756-55b830a1985b.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Killer-Book-Club-2023.jpg" , ชมรมหนังสือฆาตกร
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
@@ -84,11 +114,6 @@ https://hlsp2p.com/view/2ad774f6-2165-5b40-b10e-f2960e78d4a4.m3u8
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 https://hlsp2p.com/view/2c3b868f-e3bb-5453-93b6-aad777551a19.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/The-Meg-2-2023.jpg" , เม็ก 2 อภิมหาโคตรหลามร่องนรก
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/d34f9d0c-97f7-531a-a756-55b830a1985b.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Long-Story-Shorts-Lost-in-Blue-2016.jpg" , ระหว่างเราครั้งก่อน
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
@@ -169,10 +194,6 @@ https://hlsp2p.com/view/444dfce4-3d22-5f5e-ae1a-d6a015d969bd.m3u8
 #EXTVLCOPT:http-referrer=https://main.77player.xyz/
 https://main.77player.xyz/m3u8/37094187a5ac4e23e2d5750b/37094187a5ac4e23e2d5750b438.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken-2023.jpg" , รูบี้ สาวน้อยอสูรทะเล
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/f08cb3e4-5e58-596c-b71c-7d183d8bfb9e.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Flash-2023.jpg" , เดอะ แฟลช
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -203,11 +224,6 @@ https://streamhls.com/view/a537cabe-d3aa-5b6b-9f0e-175cf6a1897d.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
 https://streamhls.com/view/b16b5fa5-92a4-59ec-a8c4-a2914706cd3f.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg" , อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา Zoom
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://anime-indy.com/
-https://streamhls.com/view/5acdb868-037b-5cfd-82f3-4b667694423d.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023v3.jpg" , รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
