@@ -1,270 +1,160 @@
-{
-"name"              :     "Perfect World",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url"               :     "https://pastebin.com/raw/mjZpaFAd",
-"stations" : [
+#EXTM3U
 
-{  
-name:"Perfect World - 125",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/asGpvwTcd1/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",125
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/asGpvwTcd1/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 124",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/0fbJ52PFTi/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/0fbJ52PFTi/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 123",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/0fbJ52PFTi/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},{  
-name:"Perfect World - 122",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/3SNM0HRgnD/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/0fbJ52PFTi/video.mp4/playlist.m3u8
 
-{  
-name:"Perfect World - 121",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/UYPZKc5oiM/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/3SNM0HRgnD/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 120",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/v0p3czGGeP/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",121
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/UYPZKc5oiM/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 119",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/HIHhPkxViA/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",120
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/v0p3czGGeP/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 118",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/qHtoYhWa57/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",119
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/HIHhPkxViA/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 117",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/Q5qtfq7Jv9/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",118
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/qHtoYhWa57/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 116",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/iwzAJ5InuM/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",117
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/Q5qtfq7Jv9/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 115",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/jUaf6iLWnx/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",116
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/iwzAJ5InuM/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 114",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/q4BxQr58DS/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",115
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/jUaf6iLWnx/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 113",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/5ih2k7njW9/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/q4BxQr58DS/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 112",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/7nzWKT6oqx/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",113
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/5ih2k7njW9/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 111",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/DP0GyjhgVF/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",112
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/7nzWKT6oqx/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 110",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/rI2AYfaIi0/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/DP0GyjhgVF/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 109",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/ZaAHUvptb/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",110
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/rI2AYfaIi0/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 108",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/WLtcV7HXaF/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 107",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/H47WS5OMS/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",109
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/ZaAHUvptb/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
-{  
-name:"Perfect World - 106 ",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/B5Y08L4OTA/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",108
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/WLtcV7HXaF/video.mp4/playlist.m3u8
 
-{  
-name:"Perfect World - 105",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/L5lX80KWoy/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 104",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/0deUICdR0/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 103",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/h8C5h15XRx/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 102",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/yaVafsmHZD/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 101",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/FY7rCiJ3q8/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 100",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/q30Zqm0plX/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 99",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/3G099OvTB4/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 98",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/N8gqx2Pa2T/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 97",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/W4jebTHKrF/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 96",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/m4MEPqbbw/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 95",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/BQaBi3O09i/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 94",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/Led9rUyMKa/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 93",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/3Y118eu34f/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 92",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/uEfE3X5o8u/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Perfect World - 91",
-"image"             :     "https://cdn.myanimelist.net/images/anime/1476/124197.jpg",
-"url":"https://indy.team-indy.club:8443/vid/JCgpUjVt/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-]
-}
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",107
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/H47WS5OMS/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",106 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/B5Y08L4OTA/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",105
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/L5lX80KWoy/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",104
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/0deUICdR0/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",103
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/h8C5h15XRx/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/yaVafsmHZD/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",101
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/FY7rCiJ3q8/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/q30Zqm0plX/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",99
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/3G099OvTB4/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/N8gqx2Pa2T/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/W4jebTHKrF/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/m4MEPqbbw/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/BQaBi3O09i/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/Led9rUyMKa/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/3Y118eu34f/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/uEfE3X5o8u/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",91
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/JCgpUjVt/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
