@@ -1,211 +1,119 @@
-{
-"name"              :     "Throne of Seal",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url"               :     "https://pastebin.com/raw/1dA6yMXn",
-"stations" : [
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/mqh46Zs05W/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 69",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/mqh46Zs05W/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 68",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/I22HjUhTVd/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 67",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/4KqMvL9Vbv/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 66",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/SyxzKWDrwb/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 65",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/2RCt8TXWhe/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 64",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/XQxyfnXv7Y/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 63",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/tsJBsEoeWu/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 62",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/O6wwWdNKl/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 61",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/6wNyLDn0pw/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 60",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/EDQXNZdn1c/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 59",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/N0YHvRtjtF/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/I22HjUhTVd/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 58",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/XmcFlRMcsF/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",67
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/4KqMvL9Vbv/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 57",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/HLjGTZJmpa/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/SyxzKWDrwb/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 56",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/2k3oEvVEH/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/2RCt8TXWhe/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 55",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/4VTO7u6Iz9/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/XQxyfnXv7Y/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 54",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/Pvzo8uUwg/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/tsJBsEoeWu/video.mp4/playlist.m3u8
 
-{  
-name:"Throne of Seal 53",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.tech:8443/vid/s2IjNuetoQ/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 52",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/hOoItDF1d5/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 51",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/EnErHbhKlR/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 50",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/3sZkmgA9rI/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 49",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/xHZRLm23Fb/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 48",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/iWj8OTYkrx/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 47",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/JKkDKybnro/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 46",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/bUgw93nfO9/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 45",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/XsiHNLjeom/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 44",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/eYFmr9snBR/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 43",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/K3dIsehOn2/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{  
-name:"Throne of Seal 42",
-image:"https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
-"url":"https://indy.team-indy.club:8443/vid/vJzAGfnU0t/video.mp4/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/O6wwWdNKl/video.mp4/playlist.m3u8
 
-]
-}
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/6wNyLDn0pw/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/EDQXNZdn1c/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/N0YHvRtjtF/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",58
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/XmcFlRMcsF/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/HLjGTZJmpa/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/2k3oEvVEH/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/4VTO7u6Iz9/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/Pvzo8uUwg/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/s2IjNuetoQ/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/hOoItDF1d5/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/EnErHbhKlR/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/3sZkmgA9rI/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/xHZRLm23Fb/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/iWj8OTYkrx/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/JKkDKybnro/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/bUgw93nfO9/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/XsiHNLjeom/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/eYFmr9snBR/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/K3dIsehOn2/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/vJzAGfnU0t/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=
