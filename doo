@@ -1,52 +1,5 @@
 #EXTM3U
-#EXTINF:0,NBT 2
-http://dootvz.ddns.net:8080/clone11/123abc/1
-#EXTINF:0,THAI PBS
-http://dootvz.ddns.net:8080/clone11/123abc/2
-#EXTINF:0,ALTV 4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:0, TV 5
-http://dootvz.ddns.net:8080/clone11/123abc/4
-#EXTINF:0,T SPORT 7
-http://dootvz.ddns.net:8080/clone11/123abc/5
-#EXTINF:0,TPTV
-https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_480p.m3u8
-#EXTINF:0,TNN 16
-http://dootvz.ddns.net:8080/clone11/123abc/7
-#EXTINF:0,JKN 18
-http://dootvz.ddns.net:8080/clone11/123abc/8
-#EXTINF:0,NATION 22
-http://dootvz.ddns.net:8080/clone11/123abc/9
-#EXTINF:0,WORKPOINT
-http://dootvz.ddns.net:8080/clone11/123abc/10
-#EXTINF:0,TRUE 4 U
-http://dootvz.ddns.net:8080/clone11/123abc/11
-#EXTINF:0,GMM 25
-http://dootvz.ddns.net:8080/clone11/123abc/12
-#EXTINF:0,CH 8
-http://dootvz.ddns.net:8080/clone11/123abc/13
-#EXTINF:0,MONO 29
-http://dootvz.ddns.net:8080/clone11/123abc/14
-#EXTINF:0,MCOT 30
-http://dootvz.ddns.net:8080/clone11/123abc/15
-#EXTINF:0,ONE 31
-http://dootvz.ddns.net:8080/clone11/123abc/16
-#EXTINF:0,29
-http://dootvz.ddns.net:8080/clone11/123abc/17
-#EXTINF:0,CH 3
-http://dootvz.ddns.net:8080/clone11/123abc/18
-#EXTINF:0,AMARIN 34
-http://dootvz.ddns.net:8080/clone11/123abc/19
-#EXTINF:0,CH 7
-http://dootvz.ddns.net:8080/clone11/123abc/20
-#EXTINF:0,PPTV
-http://dootvz.ddns.net:8080/clone11/123abc/21
-#EXTINF:0,TOPNEWS
-http://dootvz.ddns.net:8080/clone11/123abc/22
-#EXTINF:0,WHITE CHANNEL
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:0,ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
 #EXTINF:0,PREMIER 1
 http://dootvz.ddns.net:8080/clone11/123abc/25
 #EXTINF:0,PREMIER 2
@@ -79,16 +32,7 @@ http://dootvz.ddns.net:8080/clone11/123abc/38
 http://dootvz.ddns.net:8080/clone11/123abc/39
 #EXTINF:0,TRUE SPORTS 7
 http://dootvz.ddns.net:8080/clone11/123abc/40
-#EXTINF:0,GOLF CHANNEL
-http://dootvz.ddns.net:8080/clone11/123abc/41
-#EXTINF:0,GOLF CHANNEL +
-http://dootvz.ddns.net:8080/clone11/123abc/42
-#EXTINF:0,TRUE TENNIS
-http://dootvz.ddns.net:8080/clone11/123abc/43
-#EXTINF:0,NFL
-http://dootvz.ddns.net:8080/clone11/123abc/44
-#EXTINF:0,NBA
-http://dootvz.ddns.net:8080/clone11/123abc/45
+
 #EXTINF:0,Eurosport Asia
 http://dootvz.ddns.net:8080/clone11/123abc/46
 #EXTINF:0,ID STATION
@@ -101,248 +45,7 @@ http://dootvz.ddns.net:8080/clone11/123abc/49
 http://dootvz.ddns.net:8080/clone11/123abc/60
 #EXTINF:0,MUTV
 http://dootvz.ddns.net:8080/clone11/123abc/61
-#EXTINF:0,DREAMWORKS
-http://dootvz.ddns.net:8080/clone11/123abc/64
-#EXTINF:0,CARTOON NETWORK
-http://dootvz.ddns.net:8080/clone11/123abc/65
-#EXTINF:0,NICK JR
-http://dootvz.ddns.net:8080/clone11/123abc/66
-#EXTINF:0,NICKELODEON
-http://dootvz.ddns.net:8080/clone11/123abc/67
-#EXTINF:0,TRUE SPARK PLAY
-http://dootvz.ddns.net:8080/clone11/123abc/68
-#EXTINF:0,TRUE SPARK JUMP
-http://dootvz.ddns.net:8080/clone11/123abc/69
-#EXTINF:0,BOOMERANG
-http://dootvz.ddns.net:8080/clone11/123abc/70
-#EXTINF:0,TOONEE
-http://49.0.87.24:1936/HDToonee/Toonee/chunklist_w551554224.m3u8
-#EXTINF:0,Cartoon Club
-http://dootvz.ddns.net:8080/clone11/123abc/72
-#EXTINF:0,TRT COCUK
-https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0,PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
-#EXTINF:0,EBS KIDS
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
-#EXTINF:0,AFN
-http://dootvz.ddns.net:8080/clone11/123abc/80
-#EXTINF:0,ANIMAL KINGDOM
-http://dootvz.ddns.net:8080/clone11/123abc/82
-#EXTINF:0,ANIMAL PLANET
-http://dootvz.ddns.net:8080/clone11/123abc/83
-#EXTINF:0,BBC EARTH
-http://dootvz.ddns.net:8080/clone11/123abc/84
-#EXTINF:0,BBC LIFESTYLE
-http://dootvz.ddns.net:8080/clone11/123abc/85
-#EXTINF:0,CGTN DOCUMENT
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:0,Criminal Investigation
-http://dootvz.ddns.net:8080/clone11/123abc/88
-#EXTINF:0,DISCOVERY
-http://dootvz.ddns.net:8080/clone11/123abc/89
-#EXTINF:0,DISCOVERY ASIA
-http://dootvz.ddns.net:8080/clone11/123abc/90
-#EXTINF:0,ENGLISH CLUB
-http://dootvz.ddns.net:8080/clone11/123abc/91
-#EXTINF:0,FOOD NETWORK
-http://dootvz.ddns.net:8080/clone11/123abc/92
-#EXTINF:0,HISTORY
-http://dootvz.ddns.net:8080/clone11/123abc/94
-#EXTINF:0,JAROEN CABLE TV 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:0,LIFETIME
-http://dootvz.ddns.net:8080/clone11/123abc/97
-#EXTINF:0,LOVE NATURE
-http://dootvz.ddns.net:8080/clone11/123abc/98
-#EXTINF:0,MYSCI
-http://dootvz.ddns.net:8080/clone11/123abc/100
-#EXTINF:0,NAT GEOGRAPHIC
-http://dootvz.ddns.net:8080/clone11/123abc/102
-#EXTINF:0,SMITHSONIAN
-http://dootvz.ddns.net:8080/clone11/123abc/104
-#EXTINF:0,TLC
-http://dootvz.ddns.net:8080/clone11/123abc/106
-#EXTINF:0,TRUE EXPLORE LIFE
-http://dootvz.ddns.net:8080/clone11/123abc/107
-#EXTINF:0,TRUE EXPLORE SCI
-http://dootvz.ddns.net:8080/clone11/123abc/108
-#EXTINF:0,TRUE EXPLORE WILD
-http://dootvz.ddns.net:8080/clone11/123abc/109
-#EXTINF:0,TVE
-http://dootvz.ddns.net:8080/clone11/123abc/110
-#EXTINF:0,TVN
-http://dootvz.ddns.net:8080/clone11/123abc/111
-#EXTINF:0,WILD
-http://dootvz.ddns.net:8080/clone11/123abc/112
-#EXTINF:0,WORLD OF SCIENCE
-http://dootvz.ddns.net:8080/clone11/123abc/113
-#EXTINF:0,
-http://dootvz.ddns.net:8080/clone11/123abc/114
-#EXTINF:0,
-http://dootvz.ddns.net:8080/clone11/123abc/116
-#EXTINF:0,GEM
-http://dootvz.ddns.net:8080/clone11/123abc/117
-#EXTINF:0,CCM
-http://dootvz.ddns.net:8080/clone11/123abc/118
-#EXTINF:0,TVB
-http://dootvz.ddns.net:8080/clone11/123abc/119
-#EXTINF:0,TRUE FILM 1
-http://dootvz.ddns.net:8080/clone11/123abc/120
-#EXTINF:0,TRUE FILM 2
-http://dootvz.ddns.net:8080/clone11/123abc/121
-#EXTINF:0,TRUE THAI FILM
-http://dootvz.ddns.net:8080/clone11/123abc/122
-#EXTINF:0,TRUE FILM ASIA
-http://dootvz.ddns.net:8080/clone11/123abc/123
-#EXTINF:0,TRUE MOVIE HITS
-http://dootvz.ddns.net:8080/clone11/123abc/124
-#EXTINF:0,TRUE SERIES
-http://dootvz.ddns.net:8080/clone11/123abc/125
-#EXTINF:0,TRUE CHINESE MORE
-http://dootvz.ddns.net:8080/clone11/123abc/126
-#EXTINF:0,TRUE KOREAN MORE
-http://dootvz.ddns.net:8080/clone11/123abc/127
-#EXTINF:0,TRUE ASIAN MORE
-http://dootvz.ddns.net:8080/clone11/123abc/128
-#EXTINF:0,TRUE XZYTE
-http://dootvz.ddns.net:8080/clone11/123abc/129
-#EXTINF:0,KMTV
-http://dootvz.ddns.net:8080/clone11/123abc/130
-#EXTINF:0,AXN
-http://dootvz.ddns.net:8080/clone11/123abc/131
-#EXTINF:0,HBO
-http://dootvz.ddns.net:8080/clone11/123abc/132
-#EXTINF:0,HBO HITS
-http://dootvz.ddns.net:8080/clone11/123abc/133
-#EXTINF:0,HBO SIGNATURE
-http://dootvz.ddns.net:8080/clone11/123abc/134
-#EXTINF:0,HBO FAMILY
-http://dootvz.ddns.net:8080/clone11/123abc/135
-#EXTINF:0,CINEMAX
-http://dootvz.ddns.net:8080/clone11/123abc/136
-#EXTINF:0,HITS
-http://dootvz.ddns.net:8080/clone11/123abc/137
-#EXTINF:0,HITS MOVIES
-http://dootvz.ddns.net:8080/clone11/123abc/138
-#EXTINF:0,WARNER TV
-http://dootvz.ddns.net:8080/clone11/123abc/139
-#EXTINF:0,PARAMOUNT NETWORK
-http://dootvz.ddns.net:8080/clone11/123abc/140
-#EXTINF:0,ROCK ENTERTAINMENT
-http://dootvz.ddns.net:8080/clone11/123abc/141
-#EXTINF:0,ROCK EXTREME
-http://dootvz.ddns.net:8080/clone11/123abc/142
-#EXTINF:0,3BB ASIAN
-http://dootvz.ddns.net:8080/clone11/123abc/143
-#EXTINF:0,MONO29 PLUS +
-http://dootvz.ddns.net:8080/clone11/123abc/144
-#EXTINF:0,SUN
-http://dootvz.ddns.net:8080/clone11/123abc/146
-#EXTINF:0,SAMURAI
-http://dootvz.ddns.net:8080/clone11/123abc/147
-#EXTINF:0,MOVIES WORLD 1
-http://dootvz.ddns.net:8080/clone11/123abc/148
-#EXTINF:0,CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:0,CHANNEL 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:0,BOX FILM
-http://dootvz.ddns.net:8080/clone11/123abc/151
-#EXTINF:0,SANOOK
-http://dootvz.ddns.net:8080/clone11/123abc/152
-#EXTINF:0,LOTUS MACAU
-http://dootvz.ddns.net:8080/clone11/123abc/153
-#EXTINF:0,XING KONG
-http://dootvz.ddns.net:8080/clone11/123abc/154
-#EXTINF:0,CCTV 4
-http://dootvz.ddns.net:8080/clone11/123abc/155
-#EXTINF:0,TVB 
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
-#EXTINF:0,B4U MOVIES
-http://dootvz.ddns.net:8080/clone11/123abc/157
-#EXTINF:0,THRILL
-http://dootvz.ddns.net:8080/clone11/123abc/159
-#EXTINF:0,TVMall
-http://dootvz.ddns.net:8080/clone11/123abc/160
-#EXTINF:0,FAST FUN BOX
-http://dootvz.ddns.net:8080/clone11/123abc/161
-#EXTINF:0,SIAM NEWS
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:0,THAI NEWS
-https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:0,MEDIA NEW TV
-https://live1.thaitvstream.com/play/medianews/index.m3u8
-#EXTINF:0,PHETCHABUN TV
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-#EXTINF:0,MOUNCHON TV
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:0,ZABB TV
-https://live1.thaitvstream.com/play/zabbtv/index.m3u8
-#EXTINF:0,SRTV
-https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-#EXTINF:0,AND TV
-https://live.thaitvstream.com/play/andtv/index.m3u8
-#EXTINF:0,HI HD SPORT
-http://203.154.243.31:8081/live/hisport/index.m3u8
-#EXTINF:0,SWEET
-http://dootvz.ddns.net:8080/clone11/123abc/173
-#EXTINF:0,V CHANNEL
-http://dootvz.ddns.net:8080/clone11/123abc/174
-#EXTINF:0,Attv
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:0,Dragon
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:0,Jomyut
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-#EXTINF:0,Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:0,ABC 2
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
-#EXTINF:0,ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:0,ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:0,Arirang
-https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8%7Creferer=https://freetvdd.com/
-#EXTINF:0,BBC
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/264
-#EXTINF:0,BLOOMBERG ASIA
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46826
-#EXTINF:0,BreaKingNew
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:0,CBS N
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
-#EXTINF:0,CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0,CCTV1
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:0,CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:0,CHANNEL NEWS ASIA
-https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8%7Creferer=https://freetvdd.com/
-#EXTINF:0,Cheddar News
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:0,DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,FOX NEWS
-https://streaming.livescorethai.net/iptv/uk-foxnews.stream/chunks.m3u8%7Creferer=https://freetvdd.com/
-#EXTINF:0,Global News
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:0,MNP
-http://hls.mirtv.cdnvideo.ru:80/mirtv-parampublish/mirtv_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
-#EXTINF:0,NHK Chinese
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:0,TRT World 1
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:0,TV5 MONDE ASIE
-http://tv.dootvz.ml:8080/demo/123456788/962
-#EXTINF:0,TVE
-http://tv.dootvz.ml:8080/demo/123456788/963
-#EXTINF:0,Yahoo! News
-https://content-aaps1.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b/g.m3u8?pbs=716247a955334719b409f7ca8653817a
+
 #EXTINF:0,Sport Klub 1
 http://dootvz.ddns.net:8080/clone11/123abc/1179
 #EXTINF:0,Sport Klub 2
@@ -355,14 +58,7 @@ http://dootvz.ddns.net:8080/clone11/123abc/1186
 http://dootvz.ddns.net:8080/clone11/123abc/1187
 #EXTINF:0,Arenasport3
 http://dootvz.ddns.net:8080/clone11/123abc/1188
-#EXTINF:0,PGA Tour
-http://dootvz.ddns.net:8080/clone11/123abc/1194
-#EXTINF:0,ShowBiz
-http://dootvz.ddns.net:8080/clone11/123abc/1207
-#EXTINF:0,FWTOON
-http://dootvz.ddns.net:8080/clone11/123abc/227
-#EXTINF:0,7 Flix
-http://dootvz.ddns.net:8080/clone11/123abc/1211
+
 #EXTINF:70,AIS 1
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 #EXTINF:0,AIS 2
@@ -383,22 +79,13 @@ http://dootvz.ddns.net:8080/clone11/123abc/57
 http://dootvz.ddns.net:8080/clone11/123abc/58
 #EXTINF:0,AIS 10
 http://dootvz.ddns.net:8080/clone11/123abc/59
-#EXTINF:0,ANIPLUS
-http://dootvz.ddns.net:8080/clone11/123abc/73
-#EXTINF:0,FASHION TV
-http://dootvz.ddns.net:8080/clone11/123abc/145
-#EXTINF:0,KBS World
-http://dootvz.ddns.net:8080/clone11/123abc/1701
+
 #EXTINF:0,La Liga
 http://dootvz.ddns.net:8080/clone11/123abc/9225
-#EXTINF:0,Golf
-http://dootvz.ddns.net:8080/clone11/123abc/9226
 #EXTINF:0,Football
 http://dootvz.ddns.net:8080/clone11/123abc/9227
 #EXTINF:0,maximo
 http://dootvz.ddns.net:8080/clone11/123abc/9228
-#EXTINF:0,Motorsport
-http://dootvz.ddns.net:8080/clone11/123abc/9229
 #EXTINF:0,Premier League
 http://dootvz.ddns.net:8080/clone11/123abc/9230
 #EXTINF:0,Rugby
@@ -415,26 +102,11 @@ http://dootvz.ddns.net:8080/clone11/123abc/271
 http://dootvz.ddns.net:8080/clone11/123abc/9334
 #EXTINF:0,AFV
 http://dootvz.ddns.net:8080/clone11/123abc/14186
-#EXTINF:0,NBA TV
-http://dootvz.ddns.net:8080/clone11/123abc/14187
-#EXTINF:0,NFL Network 
-http://dootvz.ddns.net:8080/clone11/123abc/14188
 #EXTINF:0,EUROSPORT 1 HD
 http://dootvz.ddns.net:8080/clone11/123abc/276
 #EXTINF:0,EUROSPORT 2 HD
 http://dootvz.ddns.net:8080/clone11/123abc/14189
-#EXTINF:0,KpopTV Play
-http://dootvz.ddns.net:8080/clone11/123abc/14341
-#EXTINF:0,CCTV4
-http://dootvz.ddns.net:8080/clone11/123abc/14530
-#EXTINF:0,UK-4K: BBC 1
-http://dootvz.ddns.net:8080/clone11/123abc/14578
-#EXTINF:0,UK-4K: BBC 2
-http://dootvz.ddns.net:8080/clone11/123abc/14579
-#EXTINF:0,UK-4K: BBC 3/CBBC
-http://dootvz.ddns.net:8080/clone11/123abc/14580
-#EXTINF:0,UK-4K: BBC 4/CBEEBIES
-http://dootvz.ddns.net:8080/clone11/123abc/14581
+
 #EXTINF:0,ASSP1
 http://dootvz.ddns.net:8080/clone11/123abc/9220
 #EXTINF:0,ASSP2
@@ -453,40 +125,10 @@ http://dootvz.ddns.net:8080/clone11/123abc/14851
 http://dootvz.ddns.net:8080/clone11/123abc/14852
 #EXTINF:0,SONY SPORTS TEN5
 http://dootvz.ddns.net:8080/clone11/123abc/14853
-#EXTINF:0,NEWS1
-http://dootvz.ddns.net:8080/clone11/123abc/15682
+
 #EXTINF:0,Astro Arena
 http://dootvz.ddns.net:8080/clone11/123abc/1185
-#EXTINF:0,SkySports F1
-http://dootvz.ddns.net:8080/clone11/123abc/17324
-#EXTINF:0,DHARMA TV
-http://dootvz.ddns.net:8080/clone11/123abc/17413
-#EXTINF:0,JKN-CNBC 
-http://dootvz.ddns.net:8080/clone11/123abc/17414
-#EXTINF:0,OUTDOOR
-http://dootvz.ddns.net:8080/clone11/123abc/254
-#EXTINF:0,WTB
-http://dootvz.ddns.net:8080/clone11/123abc/255
-#EXTINF:0,Amazing Show
-http://dootvz.ddns.net:8080/clone11/123abc/273
-#EXTINF:0,Golf Channel HD
-http://dootvz.ddns.net:8080/clone11/123abc/274
-#EXTINF:0,NBA Oneshot
-http://dootvz.ddns.net:8080/clone11/123abc/275
-#EXTINF:0,WWE
-http://dootvz.ddns.net:8080/clone11/123abc/277
-#EXTINF:0,Tennis TV
-http://dootvz.ddns.net:8080/clone11/123abc/278
-#EXTINF:0,Topfight
-http://dootvz.ddns.net:8080/clone11/123abc/279
-#EXTINF:0,True Inside HD
-http://dootvz.ddns.net:8080/clone11/123abc/280
-#EXTINF:0,Super Bunteung
-http://dootvz.ddns.net:8080/clone11/123abc/281
-#EXTINF:0,True Music
-http://dootvz.ddns.net:8080/clone11/123abc/282
-#EXTINF:0,Continental Futsal Championship
-http://dootvz.ddns.net:8080/clone11/123abc/17406
+
 #EXTINF:0,PREMIER 1-B
 http://dootvz.ddns.net:8080/clone11/123abc/15147
 #EXTINF:0,PREMIER 1-C
