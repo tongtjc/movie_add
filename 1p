@@ -1,248 +1,849 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/1UFYBZYC/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1001
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 892
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/CrgVEv2s/video.mp4/playlist.m3u8
+https://indy.team-indy.tech:8443/vid/VMX3sIKM/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1002
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 893
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/pceP1Quq/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/0RBPhjDP/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1003
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 894
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/nvpnEAOE/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/jqkX5Y5l/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1004
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 895
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/V10KAxnu/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/zmISGReq/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1005
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 896
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/8l4rWf8R/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/QBNPRk2t/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1006
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 897
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/T6rl5WWe/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/9NkUDnrK/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1007
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 898
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/WgdyvDkR/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/m5gToiY9/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1008
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/PPvd7amS/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/QLCcM6xs/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1009
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/wWeF4fTn/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/WUmroybL/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1010
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 901
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/RksEK8qf/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/SfXM9m7/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1011
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 902
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/ia9nHZqB/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/09QwWRFl/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1012
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 903
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/MZlv5mMa/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/7nFOlCjA/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1013
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 904
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/CY7XW3Rk/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/qZwkexoX/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1014
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 905
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/WgFOFZLO/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/H3lUQ1Hk/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1015
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 906
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/utuCmG9b/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/LdF4sJu/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1016
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 907
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/yBoYxGQm/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/9k8WRkdq/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1017
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 908
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/VfZjcMSB/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/b0eUjiTM/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1018
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 909
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/Jj6rzEXK/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/UGbBtRw/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1019
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 910
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/avFPC4FF/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/MomfCPAZ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1020
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 911
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/AFu591X0/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/ry1jdheA/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1021
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 912
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/5M4yId8W/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/9yF09zlg/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1022
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 913
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/yWaua4Vx/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/8B1FePtv/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1023
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 914
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/ICecg7fv/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/zVlNizB2/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1024
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 915
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/T35GnI03/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/u5SLRF8F/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1025
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 916
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/18oBYid3/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/b9F0cAvb/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1026
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 917
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/Jp9TK36w/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/Ge1CvRPx/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1027
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 918
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/pPuUAoDW/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/CMXmxqXP/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1028
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 919
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/5am9F7Bl/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/dNUraHel/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1029
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 920
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/zjYI2VLq/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/Inwy49yJ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1030
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 921
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/uMQt6YU8/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/uc7QJN/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1031
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 922
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/0slj8Cr9/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/Riw8IFIz/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1032
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 923
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/0Vc8hRun/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/oh6Gtkx0/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1033
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 924
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/93eVonFD/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/mL0umswN/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1034
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/JtZZPMWf/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/C52O2s5n/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1035
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 926
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/h12DYDs4/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/rq7MQesC/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1036
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 927
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/fisSG4K/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/BhjwvCKF/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1037
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 928
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/pfeX9WI/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/LBrMV8hf/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1038
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 929
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/pTKcHl5N/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/dof7tE5b/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1039
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 930
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/nkV5GlEa/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/gd1R7aIO/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1040
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 931
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/X1Th89fw/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/Omtb4yel/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1041
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 933
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/KNkKPSZp/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/2syakJVl/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1042
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 932
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/SwgrH8Lv/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/chTF925n/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1043
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 934
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/5pwhDctn/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/X4ejBJvT/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1044
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 935
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/T7v2Xs1D/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/wJKywop5/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1045
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 936
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/D29OEL6G/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/cB0PV7Db/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1046
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 937
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/rLA4CG2w08/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/arBObuST/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1047
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 938
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/nzDmfiQY4k/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/kMUd7t7t/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1048
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 939
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/tsWnNKVPun/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/EBDI3gNY/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1049
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 940
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/s9mdwqLE0e/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/cJefx8NQ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1050
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 941
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/VRlqkp2AhK/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/DkV1I56f/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1051
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 942
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/HxuZDFIsVj/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/eODuTvBg/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1052
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 943
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/6DijT5D6X3/video.mp4/playlist.m3u8
+ https://indy.team-indy.tech:8443/vid/bSgu6Pbf/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1053
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 944
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/0YO7OletAo/video.mp4/playlist.m3u8
-		
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1054
+ https://indy.team-indy.tech:8443/vid/277A01O0/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 945
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/m3t8bHo4se/video.mp4/playlist.m3u8
-		
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1055
+ https://indy.team-indy.tech:8443/vid/nUlTlzIS/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 946
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/eM01Kz9Ic/video.mp4/playlist.m3u8
-		
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1056
+ https://indy.team-indy.tech:8443/vid/7zKFgZ6z/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 947
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/GgczfyafM/video.mp4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://anime-indy.com/
-		 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1057
+ https://indy.team-indy.tech:8443/vid/IEACu9sb/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 948
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/sZfmqbfouU/video.mp4/playlist.m3u8
-		
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1058 
+ https://indy.team-indy.tech:8443/vid/WDoT1ddd/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 949
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/dFTDx7vtgm/video.mp4/chunk.m3u8
-		 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1059 
+ https://indy.team-indy.tech:8443/vid/TZfGI2ZB/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 950
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/U8Fsb2iLGY/video.mp4/chunk.m3u8
-		 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1060 
+ https://indy.team-indy.tech:8443/vid/MY8afgKo/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 951
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/UzX0kSAtwL/video.mp4/chunk.m3u8
+ https://indy.team-indy.tech:8443/vid/FxnMBgCI/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 952
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/dT5QkOk1/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 953
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/ejZmcrPI/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 954
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/CC7AZvW/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 955
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/R24J2S36/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 956
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/BquJ74nl/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 957
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/WeX776TQ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 958
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/45Q9yEvJ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 959
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/MerYkLDs/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 960
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/TgCoy1oH/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 961
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/ftCMQTMt/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 962
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/8c0SkmLi/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 963
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/9QsODCBe/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 964
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/m1Bampg6/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 965
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/HZN4zV6q/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 966
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/YroQ5QzX/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 967
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/jcy5l341/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 968
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/S5bc7Vhs/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 969
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/0PKzbmes/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 970
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/9ZaZlB0z/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 971
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/Hn96NmIa/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 972
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/yJau0AT6/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 973
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/ZKpgMi5j/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 974
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/Pqhixw3X/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 975
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/pOfqYq4T/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 976
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/bH4DthtL/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 977
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/DAtOtD3/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/5HNd3jKP/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 979
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/eZbbd2VC/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 980
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/0OZtENop/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 981
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/fJW2r0xp/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 982
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/220UJjMx/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 983
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/DCLeLndl/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 984
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/q6VylREk/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 985
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/y0iJ3Jo1/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 986
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/QtudSOaW/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 987
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/8On2zaco/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 988
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/MtkH6KC5/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 989
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/AyeyG1Ml/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 990
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/YAs9qjkZ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 991
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/U85semr8/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 992
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/BBExEPYr/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 993
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/n2AXtNQZ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 994
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/gWQfrW8U/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 995
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/MWhG9t9p/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 996
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/dTm3mCdE/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 997
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/qnTmdZfp/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 998
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/0krzKGF/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 999
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/DztUzkHg/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/1UFYBZYC/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/CrgVEv2s/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/pceP1Quq/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1003
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/nvpnEAOE/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1004
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/V10KAxnu/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1005
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/8l4rWf8R/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1006
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/T6rl5WWe/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1007
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/WgdyvDkR/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1008
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/PPvd7amS/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1009
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/wWeF4fTn/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/RksEK8qf/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1011
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/ia9nHZqB/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/MZlv5mMa/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1013
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/CY7XW3Rk/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1014
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/WgFOFZLO/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1015
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/utuCmG9b/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1016
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/yBoYxGQm/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1017
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/VfZjcMSB/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1018
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/Jj6rzEXK/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1019
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/avFPC4FF/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/AFu591X0/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/5M4yId8W/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1022
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/yWaua4Vx/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/ICecg7fv/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/T35GnI03/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/18oBYid3/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/Jp9TK36w/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/pPuUAoDW/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1028
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/5am9F7Bl/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1029
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/zjYI2VLq/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1030
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/uMQt6YU8/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1031
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/0slj8Cr9/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1032
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/0Vc8hRun/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1033
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/93eVonFD/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1034
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/JtZZPMWf/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1035
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/h12DYDs4/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1036
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/fisSG4K/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1037
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/pfeX9WI/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1038
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/pTKcHl5N/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1039
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/nkV5GlEa/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1040
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/X1Th89fw/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1041
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/KNkKPSZp/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1042
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/SwgrH8Lv/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/5pwhDctn/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1044
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/T7v2Xs1D/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1045
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/D29OEL6G/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1046
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/rLA4CG2w08/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1047
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/nzDmfiQY4k/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1048
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/tsWnNKVPun/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1049
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/s9mdwqLE0e/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1050
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/VRlqkp2AhK/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1051
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/HxuZDFIsVj/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1052
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/6DijT5D6X3/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1053
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/0YO7OletAo/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1054
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/m3t8bHo4se/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1055
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/eM01Kz9Ic/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1056
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/GgczfyafM/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1057
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/TjypSoDzlY/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1058
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/a1aQWmmSZ/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1059
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/ZjbhgJjKTL/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
+
+ #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg ",ตอนที่ 1060
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+ https://indy.team-indy.tech:8443/vid/kWHYndx9/video.mp4/playlist.m3u8
+ #EXTVLCOPT:http-referrer=https://indy.team-indy.net/"
 		 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1061
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
