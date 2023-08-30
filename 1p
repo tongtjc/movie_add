@@ -1,467 +1,307 @@
-{
-"name"              :     "One Piece - Wanokuni",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-"url"               :     "https://pastebin.com/raw/XA2Bwz5i",
-"stations" : [
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/1UFYBZYC/video.mp4/playlist.m3u8
 
-		{
-            "name": "1000",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/1UFYBZYC/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1001",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/CrgVEv2s/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1002",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/pceP1Quq/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1003",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/nvpnEAOE/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1004",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/V10KAxnu/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1005",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/8l4rWf8R/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1006",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/T6rl5WWe/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1007",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/WgdyvDkR/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1008",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/PPvd7amS/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1009",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/wWeF4fTn/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1010",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/RksEK8qf/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1011",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/ia9nHZqB/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1012",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/MZlv5mMa/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1013",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/CY7XW3Rk/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1014",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/WgFOFZLO/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1015",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/utuCmG9b/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1016",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/yBoYxGQm/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1017",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/VfZjcMSB/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1018",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/Jj6rzEXK/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1019",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/avFPC4FF/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1020",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/AFu591X0/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1021",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/5M4yId8W/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1022",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/yWaua4Vx/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1023",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/ICecg7fv/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1024",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/T35GnI03/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1025",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/18oBYid3/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1026",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/Jp9TK36w/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1027",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/pPuUAoDW/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1028",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/5am9F7Bl/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1029",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/zjYI2VLq/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1030",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/uMQt6YU8/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1031",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/0slj8Cr9/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1032",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/0Vc8hRun/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1033",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/93eVonFD/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1034",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/JtZZPMWf/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1035",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/h12DYDs4/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1036",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/fisSG4K/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1037",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/pfeX9WI/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1038",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/pTKcHl5N/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1039",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/nkV5GlEa/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1040",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/X1Th89fw/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1041",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/KNkKPSZp/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1042",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/SwgrH8Lv/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1043",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/5pwhDctn/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1044",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/T7v2Xs1D/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1045",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/D29OEL6G/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1046",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/rLA4CG2w08/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1047",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/nzDmfiQY4k/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1048",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/tsWnNKVPun/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1049",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/s9mdwqLE0e/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1050",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/VRlqkp2AhK/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1051",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/HxuZDFIsVj/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1052",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/6DijT5D6X3/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-        },{
-            "name": "1053",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/0YO7OletAo/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{
-            "name": "1054",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/m3t8bHo4se/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{
-            "name": "1055",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/eM01Kz9Ic/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{
-            "name": "1056",
-            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-            "url": "https://indy.team-indy.club:8443/vid/GgczfyafM/video.mp4/playlist.m3u8",
-            "referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/CrgVEv2s/video.mp4/playlist.m3u8
 
-		},{ 
-			"name":"1057",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.club:8443/vid/sZfmqbfouU/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{
-			"name":"1058 ",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.club:8443/vid/dFTDx7vtgm/video.mp4/chunk.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{ 
-			"name":"1059 ",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.club:8443/vid/U8Fsb2iLGY/video.mp4/chunk.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{ 
-			"name":"1060 ",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.club:8443/vid/UzX0kSAtwL/video.mp4/chunk.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{ 
-			"name":"1061",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/IEnStwCkCu/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{ 
-			"name":"1062",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/IP23AA9gq/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{ 
-			"name":"1063",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/sl3U7SOEfa/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},{ 
-			"name":"1064",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/2pan9B9vx/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
-{ 
-			"name":"1065",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/RyA4etqWWI/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
-{ 
-			"name":"1066",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/aRJCqYoEQH/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
-{ 
-			"name":"1067",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/qDBZYuZe7Z/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/pceP1Quq/video.mp4/playlist.m3u8
 
-{ 
-			"name":"1068",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/TXW9ptVvce/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1003
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/nvpnEAOE/video.mp4/playlist.m3u8
 
-{ 
-			"name":"1069",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/8UtP0D3nZ5/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1004
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/V10KAxnu/video.mp4/playlist.m3u8
 
-{ 
-			"name":"1070",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/CKQWcIOE2n/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
-{ 
-			"name":"1071",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/GBQyp2mtzA/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
-{ 
-			"name":"1072",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/zbxhULR712/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
-{ 
-			"name":"1073",
-			"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-			"url":"https://indy.team-indy.tech:8443/vid/YHvO4HyIv/video.mp4/playlist.m3u8",
-			"referer": "https://anime-indy.com/",
-			"playInNatPlayer": "true"
-		},
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1005
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/8l4rWf8R/video.mp4/playlist.m3u8
 
-]
-}
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1006
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/T6rl5WWe/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1007
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/WgdyvDkR/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1008
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/PPvd7amS/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1009
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/wWeF4fTn/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/RksEK8qf/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1011
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/ia9nHZqB/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/MZlv5mMa/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1013
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/CY7XW3Rk/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1014
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/WgFOFZLO/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1015
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/utuCmG9b/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1016
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/yBoYxGQm/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1017
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/VfZjcMSB/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1018
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/Jj6rzEXK/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1019
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/avFPC4FF/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/AFu591X0/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/5M4yId8W/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1022
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/yWaua4Vx/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/ICecg7fv/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/T35GnI03/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/18oBYid3/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/Jp9TK36w/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/pPuUAoDW/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1028
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/5am9F7Bl/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1029
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/zjYI2VLq/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1030
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/uMQt6YU8/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1031
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/0slj8Cr9/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1032
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/0Vc8hRun/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1033
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/93eVonFD/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1034
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/JtZZPMWf/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1035
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/h12DYDs4/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1036
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/fisSG4K/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1037
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/pfeX9WI/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1038
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/pTKcHl5N/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1039
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/nkV5GlEa/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1040
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/X1Th89fw/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1041
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/KNkKPSZp/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1042
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/SwgrH8Lv/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/5pwhDctn/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1044
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/T7v2Xs1D/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1045
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/D29OEL6G/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1046
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/rLA4CG2w08/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1047
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/nzDmfiQY4k/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1048
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/tsWnNKVPun/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1049
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/s9mdwqLE0e/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1050
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/VRlqkp2AhK/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1051
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/HxuZDFIsVj/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1052
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/6DijT5D6X3/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1053
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/0YO7OletAo/video.mp4/playlist.m3u8
+		
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1054
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/m3t8bHo4se/video.mp4/playlist.m3u8
+		
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1055
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/eM01Kz9Ic/video.mp4/playlist.m3u8
+		
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1056
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/GgczfyafM/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1057
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/sZfmqbfouU/video.mp4/playlist.m3u8
+		
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1058 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/dFTDx7vtgm/video.mp4/chunk.m3u8
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1059 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/U8Fsb2iLGY/video.mp4/chunk.m3u8
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1060 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.club:8443/vid/UzX0kSAtwL/video.mp4/chunk.m3u8
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1061
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/IEnStwCkCu/video.mp4/playlist.m3u8
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1062
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/IP23AA9gq/video.mp4/playlist.m3u8
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/sl3U7SOEfa/video.mp4/playlist.m3u8
+		 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1064
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/2pan9B9vx/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1065
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/RyA4etqWWI/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1066
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/aRJCqYoEQH/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1067
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/qDBZYuZe7Z/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1068
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/TXW9ptVvce/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1069
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/8UtP0D3nZ5/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1070
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/CKQWcIOE2n/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1071
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/GBQyp2mtzA/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1072
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/zbxhULR712/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",1073
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/YHvO4HyIv/video.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
