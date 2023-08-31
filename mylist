@@ -23,28 +23,28 @@
 
 
 {
-"name"              :     "Live Sport 1",
+"name"              :     "Sport 1",
 "image"             :     "https://i.imgur.com/k6kY8DC.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sporttemp2",
 "import": false
 },
 
 {
-"name"              :     "Live Sport 2",
+"name"              :     "Sport 2",
 "image"             :     "https://i.imgur.com/BxGoMW6.jpg",
 "url"               :     "https://freenote.biz/raw/eBA4njoOiH",
 "import": false
 },
 
 {
-"name"              :     "Live Sport 3",
+"name"              :     "Sport 3",
 "image"             :     "https://i.imgur.com/o02rOjb.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sporttemp1",
 "import": false
 },
 
 {
-"name"              :     "Live Sport 4 liftplay",
+"name"              :     "Sport 4 liftplay",
 "image"             :     "https://i.imgur.com/kDiR0or.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sport4",
 "import": false
@@ -52,21 +52,21 @@
 
 
 {
-"name"              :     "Live Sport 5",
+"name"              :     "Sport 5",
 "image"             :     "https://i.imgur.com/ge90iuD.jpg",
 "url"               :     "https://www.dropbox.com/s/up3bhxzg0yiv6pc/sports-thai.txt?dl=1",
 "import": false
 },
 
 {
-"name"              :     "Live Sport 6",
+"name"              :     "Sport 6",
 "image"             :     "https://i.imgur.com/a7soBST.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sport1",
 "import": false
 },
 
 {
-"name"              :     "Live Sport 7",
+"name"              :     "Sport 7",
 "image"             :     "https://drive.google.com/uc?export=download&id=1eJiHObxi2K0LTH5GrM8fib4i0kQrxhsJ",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sport3",
 "import": false
