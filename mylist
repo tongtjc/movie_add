@@ -15,12 +15,18 @@
 },
 
 {
-"name"              :     "TV Digital สำรอง",
+"name"              :     "TV Digital สำรอง 1",
 "image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
 "url"               :     "https://drive.google.com/uc?export=download&id=1eKZ0_IqbEo5g_L1tWzIuLWFgz5NsFSz9",
 "import": false
 },
 
+{
+"name"              :     "TV Digital สำรอง 2",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://pastebin.com/raw/85xPY9SY",
+"import": false
+},
 
 {
 "name"              :     "Sport 1",
