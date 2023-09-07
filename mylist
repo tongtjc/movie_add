@@ -84,10 +84,11 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
 "import": false
 }, 
+
 {
 "name"              :     "Movie 2023",
 "image"             :     "https://i.imgur.com/vcZm6hA.jpg",
-"url"               :     "https://pastebin.com/raw/mSg8t65S",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/movieS",
 "import": false
 }, 
 
