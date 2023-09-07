@@ -1,0 +1,45 @@
+{
+"name":"หนังฟรี",
+author:"จะเอาเรื่องไหนก็ไลน์บอก",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://pastebin.com/raw/mSg8t65S",
+   "groups": [ 
+      { 
+				"name": "หนังเพิ่มใหม่เพิ่มเอง",
+				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TR0FDy8YEHn4IqG9TGjNpcnEwB1qubzUEdMduUGsBNVqHPbk_k1pnloPPxNmevypd9dPwRYHtVe7jTjo2HDgK1Nu7xQOeskJ2dTrz94KoRuWqQhZlViZXJQDdThb6tR1khNAS4Kd7mUOVDHjABnGJ513dIf69luaiOpUlLFV6q1KlchDn2R-LZ4VOA/w510-h640/depositphotos_54665347-stock-photo-refresh-rotate-icon-glossy-green.jpg",
+				"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/add",
+				"import": false
+      },
+{
+"name"              :     "หนังแยกตามหมวด-𝕄𝕠𝕠𝕊𝕖𝕧𝕖ℕ",
+"image"             :     "https://logopond.com/logos/563d9e3130e824663fadd4534b911268.png",
+"url"               :     "https://mooseven2211.online/playlist/wiseplay04.m3u",
+"import": false
+},
+
+{
+"name"              :     "หนังละครซีรีส์ - อุ๋ง อุ๋ง",
+"author":"แยกหมวด ตามเวป",
+"image"             :     "https://static.vecteezy.com/system/resources/previews/005/502/524/original/cinema-background-concept-movie-theater-object-on-red-curtain-background-and-movie-time-with-electric-bulbs-frame-illustration-free-vector.jpg",
+"url"               :     "https://bit.ly/3o4jh8o",
+"import": false
+},
+
+{
+"name"              :     " ʘ‿ʘ  i3RAVO IPTV",
+
+"image"             :     "https://img.freepik.com/premium-vector/colorful-movie-logo_18099-26.jpg",
+"url"               :     "https://drive.google.com/uc?id=1hMwSmTBbneARs1lnrIEm7RiJ9OSoGHQq",
+"import": false
+},
+
+{
+"name"              :     "NoyKHAMKONG.TV",
+
+"image"             :     "https://img.freepik.com/premium-psd/clapperboard-3d-illustration_235528-1767.jpg",
+"url"               :     "https://pastebin.com/raw/u7rndh1x",
+"import": false
+},
+
+]
+}
