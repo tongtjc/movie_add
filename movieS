@@ -42,12 +42,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
-"name": "เรื่องตลก 69 เดอะซีรีส์",
-"image": "https://www.037hdmovie.com/wp-content/uploads/2023/09/6ixtynin9-The-Series-2023.jpg",
-"url":"https://raw.githubusercontent.com/tongtjc/movie_add/main/j69",
-"referer": "https://www.nung2hdd.com/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+"name"              :     "เรื่องตลก 69 เดอะซีรีส์",
+
+"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/09/6ixtynin9-The-Series-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/j69",
+"import": false
 },
+
 
 
 ]
