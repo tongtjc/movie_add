@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Gran-Turismo-2023-GT-%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C-187x269.jpg" , Gran Turismo (2023) GT แกร่งทะลุไมล์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://main.77player.xyz/m3u8/a6c54e95670dafa7a4a685f3/a6c54e95670dafa7a4a685f3438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Retribution-2023-%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.jpg" , Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://main.77player.xyz/m3u8/07be56b61a73ddfb3a786ef9/07be56b61a73ddfb3a786ef9438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Barbie-2023-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg" , Barbie (2023) บาร์บี้ SubThai
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
@@ -7,7 +18,7 @@ https://main.77player.xyz/m3u8/1efc51a184493371a866f7e4/1efc51a184493371a866f7e4
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Ninja-vs-Shark-2023.jpg" , นินจา ปะทะ ฉลาม
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://server18.oneplayer.online/mp4/Qfmst3c/file_720.mp4
+https://streamhls.com/view/fc82ba82-47ea-5744-943d-8a2942129ac0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/The-Moon-2023.jpg" , THE MOON (2023) ปฏิบัติการพิชิตจันทร์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
