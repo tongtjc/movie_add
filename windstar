@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" , 6
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/8da67273b406266fdb12aaebe717edc7/aGQ=/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" , 5
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/04b071baff99d41c7601fa3355743983/aGQ=/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" , 4
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/2cb2f5a75d5b5f4fb0dc8014ba4d270a/aGQ=/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" , 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/e05f47c031848baee5e60dfde0de7bf3/aGQ=/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" , 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/ee83f18089837dd20dcdc06928d57d84/aGQ=/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" , 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/86adf146d3bb3cae47dac1eaedd1873d/aGQ=/master.m3u8
+
