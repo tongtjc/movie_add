@@ -35,7 +35,21 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "เกมรักทรยศ",
 
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/fgame",
+"import": false
+},
+
+{
+"name"              :     "สืบลับหมอระบาด",
+
+"image"             :     "https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/flu",
+"import": false
+},
 
 ]
 }
