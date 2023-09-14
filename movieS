@@ -59,5 +59,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "watchlakorn",
+
+"image"             :     "https://cdn.watchlakorn.in/images/logo1.png",
+"url"               :     "https://www.watchlakorn.in/index.html",
+"import": false
+},
+
 ]
 }
