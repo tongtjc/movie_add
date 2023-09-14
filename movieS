@@ -51,5 +51,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "ลมพัดผ่านดาว",
+
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/windstar",
+"import": false
+},
+
 ]
 }
