@@ -113,6 +113,19 @@
 "import": false
 }, 
 
+{
+"name"              :     " ʘ‿ʘ  i3RAVO IPTV",
+"image"             :     "https://img.freepik.com/premium-vector/colorful-movie-logo_18099-26.jpg",
+"url"               :     "https://drive.google.com/uc?id=1hMwSmTBbneARs1lnrIEm7RiJ9OSoGHQq",
+"import": false
+},
+
+{
+"name"              :     "NoyKHAMKONG.TV",
+"image"             :     "https://img.freepik.com/premium-psd/clapperboard-3d-illustration_235528-1767.jpg",
+"url"               :     "https://pastebin.com/raw/u7rndh1x",
+"import": false
+},
 
 ]
 }
