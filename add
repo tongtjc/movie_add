@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Barbie-2023-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg" , Barbie (2023) บาร์บี้
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/4fd1c5a2-0ec8-588c-9b07-3938a948c2b3.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/The-Ghost-Station-2023.jpg" , THE GHOST STATION (2023) อ๊กซู สถานีผีดุ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
@@ -12,12 +18,17 @@ https://hlsp2p.com/view/c94e22a5-41ce-5d0e-ac32-5c58b2b7aaee.m3u8
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Talk-to-Me-2023.jpg" , TALK TO ME (2023) จับ มือ ผี
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/19c82320-9cb6-5816-ab37-2e5df1deb9fe.m3u8
+https://hlsp2p.com/view/b501b8d3-4c9e-5894-8b21-a1eb59d1724d.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Carls-Date-2023.jpg" , CARL’S DATE (2023) เดตของคาร์ล
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 https://hlsp2p.com/view/738f85c4-949e-548e-b4ee-bcfaa2cf9b9e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/Elemental-2023.jpg" , ELEMENTAL (2023) เมืองอลวนธาตุอลเวง
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/1df8baf3-975d-502e-94a5-f3df308518e8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/The-Three-Musketeers-DArtagnan-2023-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B2%E0%B8%8D%E0%B8%B1%E0%B8%87-300x450.jpg" , The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -37,12 +48,7 @@ https://main.77player.xyz/m3u8/a6c54e95670dafa7a4a685f3/a6c54e95670dafa7a4a685f3
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Retribution-2023-%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.jpg" , Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://main.77player.xyz/m3u8/07be56b61a73ddfb3a786ef9/07be56b61a73ddfb3a786ef9438.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Barbie-2023-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg" , Barbie (2023) บาร์บี้ SubThai
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://main.77player.xyz/m3u8/1efc51a184493371a866f7e4/1efc51a184493371a866f7e4438.m3u8
+https://hlsp2p.com/view/9b800dc2-4e8b-5e81-aa40-f2122559670a.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Ninja-vs-Shark-2023.jpg" , นินจา ปะทะ ฉลาม
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
