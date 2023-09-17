@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/The-Curse-of-La-Llorona-2019-1.jpg" ,THE CURSE OF LA LLORONA (2019) คำสาปมรณะจากหญิงร่ำไห้
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/00cee752-7db1-5221-a6f9-f7d8f678b901.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023.jpg" ,ONCE UPON A CRIME (2023) กาลครั้งหนึ่งกับคดีปริศนา
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
