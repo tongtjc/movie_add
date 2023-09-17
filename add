@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023.jpg" ,ONCE UPON A CRIME (2023) กาลครั้งหนึ่งกับคดีปริศนา
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/3c4fb304-9363-59f0-ad5d-7ca6a5450e42.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Barbie-2023-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg" , Barbie (2023) บาร์บี้
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
