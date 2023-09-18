@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023.jpg" ,THE WANDERING EARTH 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/play/1824267b-b693-5f8e-848d-494a1ea9a25e
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/03/John-Wick-Chapter-4-2023.jpg" ,JOHN WICK: CHAPTER 4 (2023) จอห์น วิค แรงกว่านรก 4
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
@@ -60,10 +65,10 @@ https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 https://main.77player.xyz/m3u8/a6c54e95670dafa7a4a685f3/a6c54e95670dafa7a4a685f3438.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Retribution-2023-%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.jpg" , Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Retribution-2023.jpg" , Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/9b800dc2-4e8b-5e81-aa40-f2122559670a.m3u8
+https://hlsp2p.com/play/9b800dc2-4e8b-5e81-aa40-f2122559670a
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Ninja-vs-Shark-2023.jpg" , นินจา ปะทะ ฉลาม
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
