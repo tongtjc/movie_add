@@ -1155,3 +1155,12 @@ https://indy.team-indy.tech:8443/vid/or4J4mXcYA/video.mp4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://anime-indy.com/
 https://indy.team-indy.tech:8443/vid/r6Tr1kKzxq/video.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/09/Ni-Tian-Zhizun.jpg ",ตอนที่ 232
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/ZQ0m4f4WUJ/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/09/Ni-Tian-Zhizun.jpg ",ตอนที่ 233
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/TGFL3Ccj0p/video.mp4/playlist.m3u8
