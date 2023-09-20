@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/The-Equalizer-3-2023.jpg" ,THE EQUALIZER 3 (2023) มัจจุราชไร้เงา 3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
@@ -19,6 +20,22 @@ https://hlsp2p.com/play/3b8292f9-373d-5da7-ba4a-d2313bc17c86
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 https://hlsp2p.com/play/06bda1c9-bce3-57da-a6b3-8ac685acb2d0
+
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202308260318046K1UAB6WqPgaACYZCI5yt6ZCDyE.jpg" ,นคร-สวรรค์ Nakorn-Sawan (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://m1free.inwstream.com:1936/movie3/Nakorn_Sawan_2018/Nakorn_Sawan_2018_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230819023240wKUjAwV8iw2EF29rjnCkHjTEjFE.jpg" ,Blue Again (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://m1free.inwstream.com:1936/movie3/Blue_Again_2022/Blue_Again_2022_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230805144636zUyZMsypu8lDHq3plvdX0lF3xjS.jpg" ,ระหว่างเราครั้งก่อน Lost in Blue (2016)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://m1free.inwstream.com:1936/movie3/Lost_in_Blue_2016/Lost_in_Blue_2016_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023.jpg" ,THE WANDERING EARTH 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
