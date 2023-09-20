@@ -29,6 +29,13 @@
 },
 
 {
+"name"              :     "TV Digital สำรอง 3",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
+"import": false
+}, 
+
+{
 "name"              :     "Sport 1",
 "image"             :     "https://i.imgur.com/k6kY8DC.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/sporttemp2",
@@ -107,30 +114,9 @@
 }, 
 
 {
-"name"              :     "Poid",
+"name"              :     "FreeTV & Sport - Poid",
 "image"             :     "https://i.imgur.com/qfjFq3J.png",
 "url"               :     "http://poid0020.trueddns.com:54337/FREETV.m3u",
-"import": false
-}, 
-
-{
-"name"              :     "IPTV-THAI 1",
-"image"             :     "https://i.imgur.com/qfjFq3J.png",
-"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u",
-"import": false
-}, 
-
-{
-"name"              :     "IPTV-THAI 2",
-"image"             :     "https://i.imgur.com/qfjFq3J.png",
-"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
-"import": false
-}, 
-
-{
-"name"              :     "DooTvZ",
-"image"             :     "https://i.imgur.com/qfjFq3J.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/Pic/main/dootv",
 "import": false
 }, 
 
