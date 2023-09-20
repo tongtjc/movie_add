@@ -114,9 +114,23 @@
 }, 
 
 {
+"name"              :     "IPTV-THAI 1",
+"image"             :     "https://i.imgur.com/qfjFq3J.png",
+"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u",
+"import": false
+}, 
+
+{
+"name"              :     "IPTV-THAI 2",
+"image"             :     "https://i.imgur.com/qfjFq3J.png",
+"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
+"import": false
+}, 
+
+{
 "name"              :     "DooTvZ",
 "image"             :     "https://i.imgur.com/qfjFq3J.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/Pic/main/dootvz",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/Pic/main/dootv",
 "import": false
 }, 
 
