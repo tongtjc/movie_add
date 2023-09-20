@@ -114,6 +114,13 @@
 }, 
 
 {
+"name"              :     "DooTvZ",
+"image"             :     "https://i.imgur.com/qfjFq3J.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/Pic/main/dootvz.m3u",
+"import": false
+}, 
+
+{
 "name"              :     "WIN TV",
 "image"             :     "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url"               :     "https://bit.ly/3K4AnIh",
