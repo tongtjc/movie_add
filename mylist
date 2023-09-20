@@ -107,16 +107,16 @@
 }, 
 
 {
-"name"              :     "Ponid",
+"name"              :     "Poid",
 "image"             :     "https://i.imgur.com/qfjFq3J.png",
 "url"               :     "http://poid0020.trueddns.com:54337/FREETV.m3u",
 "import": false
 }, 
 
 {
-"name"              :     " ʘ‿ʘ  i3RAVO IPTV",
-"image"             :     "https://img.freepik.com/premium-vector/colorful-movie-logo_18099-26.jpg",
-"url"               :     "https://drive.google.com/uc?id=1hMwSmTBbneARs1lnrIEm7RiJ9OSoGHQq",
+"name"              :     "WIN TV",
+"image"             :     "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url"               :     "https://bit.ly/3K4AnIh",
 "import": false
 },
 
@@ -124,6 +124,13 @@
 "name"              :     "NoyKHAMKONG.TV",
 "image"             :     "https://img.freepik.com/premium-psd/clapperboard-3d-illustration_235528-1767.jpg",
 "url"               :     "https://pastebin.com/raw/u7rndh1x",
+"import": false
+},
+
+{
+"name"              :     "FreeTVdd",
+"image"             :     "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
+"url"               :     "https://pastebin.com/raw/RjegpBuR",
 "import": false
 },
 
