@@ -110,29 +110,23 @@ https://indy.team-indy.tech:8443/vid/v0p3czGGeP/video.mp4/playlist.m3u8
 https://indy.team-indy.tech:8443/vid/HIHhPkxViA/video.mp4/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",118
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",118
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/qHtoYhWa57/video.mp4/playlist.m3u8
-#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/EE675sazq8/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",117
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",117
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/Q5qtfq7Jv9/video.mp4/playlist.m3u8
-#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/CX40HxOQPw/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",116
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",116
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/iwzAJ5InuM/video.mp4/playlist.m3u8
-#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/0oJS7u2MGQ/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",115
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/jUaf6iLWnx/video.mp4/playlist.m3u8
-#EXTVLCOPT:http-referrer=
-
-
-
-
+https://indy.team-indy.tech:8443/vid/2TMSIHS9q/video.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",114
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
