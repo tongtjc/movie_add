@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ok.ru/videoembed/7184124021295
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 https://ok.ru/videoembed/7158396750383
