@@ -58,33 +58,7 @@
 "import": false
 }, 
 
-{
-"name"              :     "FreeTV & Sport - Poid",
-"image"             :     "https://i.imgur.com/qfjFq3J.png",
-"url"               :     "http://poid0020.trueddns.com:54337/FREETV.m3u",
-"import": false
-}, 
 
-{
-"name"              :     "WIN TV",
-"image"             :     "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-"url"               :     "https://bit.ly/3K4AnIh",
-"import": false
-},
-
-{
-"name"              :     "NoyKHAMKONG.TV",
-"image"             :     "https://img.freepik.com/premium-psd/clapperboard-3d-illustration_235528-1767.jpg",
-"url"               :     "https://pastebin.com/raw/u7rndh1x",
-"import": false
-},
-
-{
-"name"              :     "PLAYIDTV CH",
-"image"             :     "https://dl.dropbox.com/s/kgjib3gbca6gice/20220124_1433251.gif?dl=0",
-"url"               :     "https://dl.dropboxusercontent.com/s/v63aervv93l2cq1/playidtvlink.w3u",
-"import": false
-},
 
 ]
 }
