@@ -22,12 +22,7 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT",
 "import": false
 },
-{
-"name"              :     "มหายุทธหยุดพิภพ ภาค 4",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/d56e1a4ba6372e09742543b0fb19826b.jpg?w=540&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
-"import": false
-},
+
 {
 "name"              :     "มหาศึกล้างพิภพ ภาค 4",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?w=428&ssl=1",
@@ -96,7 +91,12 @@
 "import": false
 },
 
-
+{
+"name"              :     "มหายุทธหยุดพิภพ ภาค 4 - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/d56e1a4ba6372e09742543b0fb19826b.jpg?w=540&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
+"import": false
+},
 {
 "name"              :     "มหาเวทย์ผนึกมาร ภาค 2 - จบ",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-2.jpg",
