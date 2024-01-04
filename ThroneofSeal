@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/eaXuhBdAV9/video.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1808/127913.jpg",87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
 #EXTVLCOPT:http-referrer=https://sub-thai.com/stream//player/520221.php
