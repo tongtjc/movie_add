@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240105160030vA3dDnRBjYfMxhTHmPDiDyJmIOD.jpg" ,ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26: มฤตยูใต้น้ำทมิฬ (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Detective_Conan_Black_Movie_26_Iron_Submarine_2023/Detective_Conan_Black_Movie_26_Iron_Submarine_2023_th_1080.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240105155705yl5qL5Bx6bM6drTmfOGg9aPkBdo.jpg" ,NGridman Universe กริดแมนยูนิเวิร์ส (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Gridman_Universe_2023/Gridman_Universe_2023_th_1080.mp4/chunk.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Napoleon-2023.jpg" ,NAPOLEON (2023) จักรพรรดินโปเลียน zoom
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -8,7 +18,7 @@ https://hlsp2p.com/view/f819ee51-720a-5eb6-90ca-2e38d4cef81a.m3u8
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Society-of-the-Snow-2024.jpg" ,SOCIETY OF THE SNOW (2024) หิมะโหด คนทรหด
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://hlsp2p.com/view/4a796f3d-5bf8-584a-9cdd-a09b3bf2940b.m3u8
+https://m1free.inwstream.com:1936/movie3/Society_of_the_Snow_2023/Society_of_the_Snow_2023_th_1080.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/The-Adventures-2023.jpg" ,ผจญภัยล่าขุมทรัพย์หมื่นลี้ (2023) THE ADVENTURES
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -48,12 +58,12 @@ https://m1free.inwstream.com:1936/movie3/The_Childe_2023/The_Childe_2023_th_1080
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/12/Guillermo-del-Toro-s-Pinocchio-2022.jpg" ,พิน็อกคิโอ หุ่นน้อยผจญภัย
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://hlsp2p.com/view/707fc0b3-d206-593e-b50a-5728bbfaecbf.m3u8
+https://m1free.inwstream.com:1936/movie3/Guillermo_del_Toro_s_Pinocchio_2022/Guillermo_del_Toro_s_Pinocchio_2022_th_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-Sub-TH.jpg" ,KNOCK AT THE CABIN (2023) เสียงเคาะที่กระท่อม
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://streamhls.com/view/996944af-cd29-59c0-a9a6-5d66a07cbe9a.m3u8
+https://m1free.inwstream.com:1936/movie3/Knock_at_the_Cabin_2023/Knock_at_the_Cabin_2023_th_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231127135540nFjNdswa8V8OyhwmhX31JB6ENkG.jpg" ,Doi Boy ดอยบอย (2023) NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -62,13 +72,13 @@ https://m1free.inwstream.com:1936/movie3/Doi_Boy_2023/Doi_Boy_2023_th_1080.mp4/c
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023.jpg" , อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/2023/12/01/indiana-jones-and-the-dial-of-destiny-2023-%e0%b8%ad%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%88%e0%b8%b2-%e0%b9%82%e0%b8%88%e0%b8%99%e0%b8%aa%e0%b9%8c-%e0%b8%81%e0%b8%b1/
-https://streamhls.com/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Indiana_Jones_and_the_Dial_of_Destiny_2023/Indiana_Jones_and_the_Dial_of_Destiny_2023_th_1080.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/3-Idiot-Heroes-2023.jpg" ,ฮีโร่ต้มแซ่บ (2023) 3 Idiot Heroes
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://streamhls.com/view/03b51cf8-30d7-563a-a840-2ae517c28153.m3u8
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/3_Idiot_Heroes_2023/3_Idiot_Heroes_2023_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023.jpg" ,Oppenheimer (2023) ออพเพนไฮเมอร์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -88,12 +98,12 @@ https://m1free.inwstream.com:1936/movie3/Wish_2023/Wish_2023_thr_v1.mp4/playlist
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2023.jpg" ,New Gods: Yang Jian (2022) หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
-https://streamhls.com/view/96310f2a-1659-5421-a796-1c0668014d94.m3u8
+https://m1free.inwstream.com:1936/movie3/New_Gods_Yang_Jian_2022/New_Gods_Yang_Jian_2022_thr_z1.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023.jpg" ,TEENAGE MUTANT NINJA TURTLES MUTANT MAYHEM (2023) เต่านินจา โกลาหลกลายพันธุ์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://streamhls.com/view/53b58ad3-b2c2-5912-914b-94096a950686.m3u8
+https://m1free.inwstream.com:1936/movie3/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_2023_th_1080.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/Leo-2023.jpg" ,LEO (2023) ลีโอ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -112,18 +122,18 @@ https://m1free.inwstream.com:1936/movie3/Believer_2_2023/Believer_2_2023_th_1080
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Congrats-My-Ex-2023.jpg" ,ลุ้นรักป่วน ก๊วนแฟนเก่า (2023) Congrats My Ex!
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
-https://streamhls.com/view/5987b1bd-d43f-528f-9296-c9797a663f89.m3u8
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Congrats_My_Ex_2023/Congrats_My_Ex_2023_th_1080.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Perfect-Proposal-2015.jpg" ,Perfect Proposal (Eun-mil-han yu-hok) (2015)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
-https://streamhls.com/view/b16d2893-daa3-5d3c-a029-6891c451c7a9.m3u8
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Perfect_Proposal_2015/Perfect_Proposal_2015_th_1080_F.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2022/09/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" ,The Infernal Machine (2022) เดอะอินเฟอร์นัลแมชชีน
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
-https://streamhls.com/view/48c61f7c-1b12-5943-bb2b-8085bd901896.m3u8
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/The_Infernal_Machine_2022/The_Infernal_Machine_2022_th_1080p.mp4/playlist.m3u8
 
 
 
