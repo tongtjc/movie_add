@@ -66,12 +66,7 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ShroudingtheHeavens",
 "import": false
 },
-{
-"name"              :   "วันพีช - วาโนะคุนิ",
-"image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
-"url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/1p",
-"import": false
-},
+
 {
 "name"              :     "สัประยุทธ์ทะลุฟ้า 5",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/08/fights-break-sphere-2023-e1695527403809.jpg?fit=700%2C933&ssl=1",
@@ -90,7 +85,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/pfw",
 "import": false
 },
-
+{
+"name"              :   "วันพีช - วาโนะคุนิ - จบ",
+"image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
+"url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/1p",
+"import": false
+},
 {
 "name"              :     "มหายุทธหยุดพิภพ ภาค 4 - จบ",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/d56e1a4ba6372e09742543b0fb19826b.jpg?w=540&ssl=1",
