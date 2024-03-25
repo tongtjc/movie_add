@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 12
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/7OfeN0jn5j/video.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 11
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sub-thai.com/stream//player/519879.php
+https://sub-thai.com/stream//playlist/Aoshi%20Jiu%20Chong%20Tian/Aoshi%20Jiu%20Chong%20Tian%2011-720.m4v
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 10
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/XBc8MMbiVB/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 9
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/RyOfgLZQSD/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 8
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/X3CPcC4df8/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 7
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/Dtf6e34thj/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 6
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/tXZ4nIVBjk/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 5
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/LyDjDW3gwQ/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 4
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/iziCCg3Qd0/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/Tr2D00Bs0U/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/HOoI7na87/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png" , 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/aL8LEA7APk/video.mp4/playlist.m3u8

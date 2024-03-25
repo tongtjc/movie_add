@@ -1,0 +1,168 @@
+{
+"name"              :     "Anime",
+"image"             :     "https://i.pinimg.com/736x/00/d2/7c/00d27c9fbb16ce52114a1e8003fc6226.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
+"groups": [
+{
+"name"              :   "The Westward – Asura(Xi Xing Ji -Kuang Wang) อาชูร่า",
+"image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/The-Westward-AsuraXi-Xing-Ji-Kuang-Wang.jpg?w=428&ssl=1",
+"url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/อาซูร่า",
+"import": false
+},
+{
+"name"              :   "วันพีช - ซีซั่น 21 เกาะอนาคตเกาะเอ็กเฮด",
+"image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/One-Piece-Season-21.jpg?w=300&ssl=1",
+"url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/1p_egg",
+"import": false
+},
+{
+"name"              :   "Solo Leveling โซโลเลเวลลิง",
+"image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/bx151807-m1gX3iwfIsLu.png?w=460&ssl=1",
+"url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/solo",
+"import": false
+},
+
+{
+"name"              :     "ศิษย์พี่ใหญ่ของข้า 1-2",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shixiong-A-Shixiong-2nd-Season.jpg?w=270&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ศิษย์พี่ใหญ่",
+"import": false
+},
+{
+"name"              :     "คัมภีร์วิถีเซียน 1-3",
+"image"             :     "https://www.anime-masters.com/upload/fanren-xiu-xian-season-3.jpg?v=44",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT",
+"import": false
+},
+
+{
+"name"              :     "มหาศึกล้างพิภพ ภาค 4",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?w=428&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหาศึกล้างพิภพ4",
+"import": false
+},
+{
+"name"              :     "พลิกฟ้าท้าสวรรค์",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Untitled333.png?w=649&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/พลิกฟ้าท้าสวรรค์",
+"import": false
+},
+{
+"name"              :     "ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
+"image"             :     "https://i1.wp.com/www.chineseanime.vip/wp-content/uploads/2023/09/Renegade-Immortal-Xian-Ni.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
+"import": false
+},
+{
+"name"              :     "ศึกจักรพรรดิ์สวรรค์",
+"image"             :     "https://m.media-amazon.com/images/M/MV5BNzA2ZGExZGItNDY5Mi00ZTJlLTk0YzMtN2U4MTk0NmRhYTNiXkEyXkFqcGdeQXVyNjMxMTE5NTY@._V1_.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/1underWorld",
+"import": false
+},
+{
+"name"              :     "ตำนานจอมยุทธ์ภูตถังซาน 2",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/Douluodalu-2.jpg?w=1744&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/souldland2",
+"import": false
+},
+{
+"name"              :     "ข้าก็แค่ฝึกวิชาหนึ่งแสนปี",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/05/One-Hundred-Thousand-Years-of-Qi-Refining-1.jpg?w=495&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/100year",
+"import": false
+},
+
+{
+"name"              :     "อำพรางสวรรค์",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/newsubimgfinal.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ShroudingtheHeavens",
+"import": false
+},
+
+{
+"name"              :     "สัประยุทธ์ทะลุฟ้า 5",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/08/fights-break-sphere-2023-e1695527403809.jpg?fit=700%2C933&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/fightBreak5",
+"import": false
+},
+{
+"name"              :     "ผนึกเทพบัลลังก์ราชันย์",
+"image"				:	  "https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ThroneofSeal",
+"import": false
+},
+{
+"name"              :     "โลกอันสมบูรณ์แบบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/05/Perfect-World-Wanmei-Shijie.jpg?w=495&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/pfw",
+"import": false
+},
+{
+"name"              :     "คนขุดสุสาน - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/คนขุดสุสาน",
+"import": false
+},
+{
+"name"              :   "วันพีช - วาโนะคุนิ - จบ",
+"image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/One-Piece.jpg?w=495&ssl=1",
+"url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/1p",
+"import": false
+},
+{
+"name"              :     "มหายุทธหยุดพิภพ ภาค 4 - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/d56e1a4ba6372e09742543b0fb19826b.jpg?w=540&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
+"import": false
+},
+{
+"name"              :     "มหาเวทย์ผนึกมาร ภาค 2 - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/juju2",
+"import": false
+},
+{
+"name"              :     "หนึ่งกระบี่พิชิตปฐพี - จบ",
+"image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/หนึ่งกระบี่พิชิตปฐพี",
+"import": false
+},
+{
+"name"              :     "ด็อกเตอร์สโตน ภาค 1-3 - จบ",
+"image"             :     "https://img.shirokami.me/images/2022/09/19/a33437be50f5ec0cdff786f6b03dbde3.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/dr3",
+"import": false
+},
+{
+"name"              :     "เทพเจ้านักรบอสุรา - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/137693l-e1695727422109.jpg?w=338&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/เทพเจ้านักรบอสุรา",
+"import": false
+},
+{
+"name"              :     "นักล่าอสูรกาย - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/136462l.jpg?w=338&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/นักล่าอสูรกาย",
+"import": false
+},
+{
+"name"              :     "การผันแปรของดวงดาว ภาค 5 - จบ",
+"image"             :     "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2022/08/xing-chen-bian-stellar-transformation-season-5-lucifer-donghua-1.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/trans5",
+"import": false
+},
+{
+"name"              :     "ผ่าพิภพไททัน ไฟนอลซีซั่น บทสุดท้าย พากย์ไทย - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final.jpg?w=495&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/titan",
+"import": false
+},
+{
+"name"              :     "ตำนานจอมยุทธ์ภูติถังซาน - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/Douluo-Dalu-Soul-Land.jpg?fit=495%2C660&amp;ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/Soulthai",
+"import": false
+},
+
+]
+}

@@ -1,0 +1,266 @@
+{
+"name"              :     "Asian Games 2023 LIVE",
+"image"             :     "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/seegame",
+"stations": [
+
+{  
+name:"ASIAN GAMES 1",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH1_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 2",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH2_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 3",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH3_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero3",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{ 
+"name"		: "ASIAN GAMES 4", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH4_512x512.png", 
+"url"		: "https://ufa77.tv/channel?ch=baygonhero4",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{ 
+"name"		: "ASIAN GAMES 5", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH5_512x512.png", 
+"url"		: "https://ufa77.tv/channel?ch=baygonhero5",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{ 
+"name"		: "ASIAN GAMES 6", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH6_512x512.png", 
+"url"		: "https://ufa77.tv/channel?ch=baygonhero6",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{ 
+"name"		: "ASIAN GAMES 7", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH7_512x512.png", 
+"url"		: "https://ufa77.tv/channel?ch=baygonhero7",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{  
+name:"ASIAN GAMES 8",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH8_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 9",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH9_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero9",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 10",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH10_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero10",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 11",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH11_512x512.png",
+"url":"https://ufa77.tv/channel?ch=baygonhero11",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"ASIAN GAMES 12",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH12_512x512.png",
+"url":"https://www.heng99bet.com/live/baygonhero12",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 13",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH13_512x512.png",
+"url":"https://www.heng99bet.com/live/baygonhero13",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"ASIAN GAMES 14",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH14_512x512.png",
+"url":"https://www.heng99bet.com/live/baygonhero14",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{ 
+"name"		: "ASIAN GAMES 15", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH15_512x512.png", 
+"url"		: "https://www.heng99bet.com/live/baygonhero15",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{ 
+"name"		: "ASIAN GAMES 16", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH16_512x512.png", 
+"url"		: "https://www.heng99bet.com/live/baygonhero16",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{ 
+"name"		: "ASIAN GAMES 17", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH17_512x512.png", 
+"url"		: "https://www.heng99bet.com/live/baygonhero17",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+{ 
+"name"		: "ASIAN GAMES 18", 
+"image"		: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH18_512x512.png", 
+"url"		: "https://www.heng99bet.com/live/baygonhero18",
+"referer"	: "",
+"playInNatPlayer": "true"
+}, 
+ 
+
+{  
+name:"CCTV5+",
+image:"https://www.tvchinese.net/uploads/tv/cctv5+.jpg",
+"url":"https://edge1.laotv.la/live/CCTV5+/index.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"CCTV5",
+image:"https://www.tvchinese.net/uploads/tv/cctv5.jpg",
+"url":"https://yibababa.com/tv/cctv5hd.html",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{"name"              :     "T Sports 7",
+"image"             :     "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
+"url"               :     "https://www.inwiptv.com/player_demo.php?channel=547",
+"referer"           :"",
+"playInNatPlayer"   :     "true"},
+
+
+{
+"name": "ASIAN GAMES 1",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH1_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG001/HLS/AG001.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 2",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH2_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG002/HLS/AG002.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH3_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG003/HLS/AG003.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH4_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG004/HLS/AG004.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH5_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG005/HLS/AG005.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 6",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH6_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG006/HLS/AG006.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH7_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG007/HLS/AG007.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH8_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG008/HLS/AG008.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 9",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH9_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG009/HLS/AG009.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 10",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH10_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG010/HLS/AG010.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+{
+"name": "ASIAN GAMES 11",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH11_512x512.png",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG011/HLS/AG011.m3u8",
+"info":"1080p",
+"referer": "https://ais-vidnt.com"
+},
+
+
+]
+}

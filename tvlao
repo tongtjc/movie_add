@@ -1,0 +1,106 @@
+{
+   "name": "TV Digital - tvlao",
+   "image": "https://www.i-pic.info/i/1DJq365480.jpg",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/tvlao",
+   "stations": [
+
+{
+     "name": "WorkPoint",
+image:"https://i.imgur.com/oxf6BRn.png",
+     "url": "https://ctrl.laotv.la/live/WorkPoint/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "OneHD",
+image:"https://i.imgur.com/9apyiI0.png",
+     "url": "https://ctrl.laotv.la/live/OneHD/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "GMM",
+image:"https://i.imgur.com/sWGT1SD.png",
+     "url": "https://ctrl.laotv.la/live/GMM25/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "3HD",
+image:"https://i.imgur.com/lHbIKfF.png",
+     "url": "https://ctrl.laotv.la/live/3HD/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "7HD",
+image:"https://i.imgur.com/vxnLkTz.png",
+     "url": "https://ctrl.laotv.la/live/Thai7/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "AMARINTVHD",
+image:"https://i.imgur.com/S6gvvf9.png",
+     "url": "https://ctrl.laotv.la/live/AMARINTVHD/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "Mono29",
+image:"https://i.imgur.com/V4VWHiB.png",
+     "url": "https://ctrl.laotv.la/live/Mono29/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "THAIRATHTVHD",
+image:"http://m3u.at/data_file/tvlogo2/32.png",
+     "url": "https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "CH5",
+image:"https://i.imgur.com/4MIQNPQ.png",
+     "url": "https://ctrl.laotv.la/live/Thai5/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "MCOT9",
+image:"https://i.imgur.com/S4dSUQ7.png",
+     "url": "https://ctrl.laotv.la/live/Mcot/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "NBT",
+image:"https://i.imgur.com/50EIb6z.png",
+     "url": "https://ctrl.laotv.la/live/NBT/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "ThaiPBS",
+image:"https://i.imgur.com/OFsQwvv.png",
+     "url": "https://ctrl.laotv.la/live/ThaiPBS/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "PPTV",
+image:"https://i.imgur.com/i4t7Q0C.png",
+     "url": "https://ctrl.laotv.la/live/PPTVHD/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+     "name": "CH8",
+image:"https://i.imgur.com/RSQLFiU.png",
+     "url": "https://ctrl.laotv.la/live/CH8/index.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+   ]
+  }

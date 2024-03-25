@@ -1,0 +1,106 @@
+{
+   "name": "TV Digital - ufa77",
+   "image": "https://www.i-pic.info/i/1DJq365480.jpg",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/tv_ufa77",
+   "stations": [
+
+{
+     "name": "WorkPoint",
+image:"https://i.imgur.com/oxf6BRn.png",
+     "url": "https://ufa77.tv/channel?ch=workpoint",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "OneHD",
+image:"https://i.imgur.com/9apyiI0.png",
+     "url": "https://ufa77.tv/channel?ch=onehd",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "GMM",
+image:"https://i.imgur.com/sWGT1SD.png",
+     "url": "https://ufa77.tv/channel?ch=gmm25",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "3HD",
+image:"https://i.imgur.com/lHbIKfF.png",
+     "url": "https://ufa77.tv/channel?ch=3hd",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "7HD",
+image:"https://i.imgur.com/vxnLkTz.png",
+     "url": "https://ufa77.tv/channel?ch=7hd",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "AMARINTVHD",
+image:"https://i.imgur.com/S6gvvf9.png",
+     "url": "https://ufa77.tv/channel?ch=amarin",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "Mono29",
+image:"https://i.imgur.com/V4VWHiB.png",
+     "url": "https://ufa77.tv/channel?ch=mono29",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "THAIRATHTVHD",
+image:"http://m3u.at/data_file/tvlogo2/32.png",
+     "url": "https://ufa77.tv/channel?ch=thairath",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "CH5",
+image:"https://i.imgur.com/4MIQNPQ.png",
+     "url": "https://ufa77.tv/channel?ch=5hd",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "MCOT9",
+image:"https://i.imgur.com/S4dSUQ7.png",
+     "url": "https://ufa77.tv/channel?ch=mcot",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "NBT",
+image:"https://i.imgur.com/50EIb6z.png",
+     "url": "https://ufa77.tv/channel?ch=nbt",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "ThaiPBS",
+image:"https://i.imgur.com/OFsQwvv.png",
+     "url": "https://ufa77.tv/channel?ch=thaipbs",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "PPTV",
+image:"https://i.imgur.com/i4t7Q0C.png",
+     "url": "https://ufa77.tv/channel?ch=pptv",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+{
+     "name": "CH8",
+image:"https://i.imgur.com/RSQLFiU.png",
+     "url": "https://ufa77.tv/channel?ch=ch8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://ufa77.tv/"
+    },
+   ]
+  }

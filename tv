@@ -1,0 +1,81 @@
+{
+"name": "TV_Mix",
+"author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
+
+"groups": [
+
+{
+"name"              :     "TV Digital สำรอง 1",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://drive.google.com/uc?export=download&id=1eKZ0_IqbEo5g_L1tWzIuLWFgz5NsFSz9",
+"import": false
+},
+
+{
+"name"              :     "TV Digital - akkradet",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u",
+"import": false
+},
+{
+"name"              :     "TV Digital - akkradet2",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
+"import": false
+},
+{
+"name"              :     "TV Digital - lao.tv",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/tvlao",
+"import": false
+},
+{
+"name"              :     "TV Digital - moviehdthai",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/moviehdthai",
+"import": false
+},
+{
+"name"              :     "TV Digital - inwiptv",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/inwiptv",
+"import": false
+},
+{
+"name"              :     "TV Digital - เจียวเจียว",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AD%E0%B8%A5.txt",
+"import": false
+},
+
+{
+"name"              :     "FreeTV & Sport - Poid",
+"image"             :     "https://i.imgur.com/qfjFq3J.png",
+"url"               :     "http://poid0020.trueddns.com:54337/FREETV.m3u",
+"import": false
+}, 
+{
+"name"              :     "FreeTV & Sport - ALL",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://iptv-org.github.io/iptv/index.country.m3u",
+"import": false
+},
+{
+"name"              :     "NoyKHAMKONG.TV",
+"image"             :     "https://img.freepik.com/premium-psd/clapperboard-3d-illustration_235528-1767.jpg",
+"url"               :     "https://pastebin.com/raw/u7rndh1x",
+"import": false
+},
+
+
+{
+"name"              :     "WIN TV",
+"image"             :     "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url"               :     "https://pastebin.com/raw/YpDkAZPg",
+"import": false
+},
+
+
+
+]
+}

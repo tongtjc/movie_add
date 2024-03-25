@@ -1,0 +1,99 @@
+{
+   "name": "TV Digital - inwiptv",
+   "image": "https://www.i-pic.info/i/1DJq365480.jpg",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/inwiptv",
+   "stations": [
+
+{
+     "name": "WorkPoint",
+image:"https://i.imgur.com/oxf6BRn.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "OneHD",
+image:"https://i.imgur.com/9apyiI0.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "GMM25",
+image:"https://i.imgur.com/sWGT1SD.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27153",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "3HD",
+image:"https://i.imgur.com/lHbIKfF.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "7HD",
+image:"https://i.imgur.com/vxnLkTz.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27132",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "AMARINTVHD",
+image:"https://i.imgur.com/S6gvvf9.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27135",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "Mono29",
+image:"https://i.imgur.com/V4VWHiB.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27144",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "THAIRATHTVHD",
+image:"http://m3u.at/data_file/tvlogo2/32.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27138",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "CH5",
+image:"https://i.imgur.com/4MIQNPQ.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27190",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "MCOT9",
+image:"https://i.imgur.com/S4dSUQ7.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "NBT",
+image:"https://i.imgur.com/50EIb6z.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27189",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "ThaiPBS",
+image:"https://i.imgur.com/OFsQwvv.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27188",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    },
+{
+     "name": "PPTV",
+image:"https://i.imgur.com/i4t7Q0C.png",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.inwiptv.com/"
+    }
+]
+}

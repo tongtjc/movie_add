@@ -1,0 +1,602 @@
+{ 
+"name": "Football",
+"author": "แกะเอง นักเลงพอ",
+"url": "https://pastebin.com/raw/BNNtR9Pf",
+"image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/logo394x173.png",
+"info": "แกะเอง นักเลงพอ",
+   "groups": [ 
+      { 
+	"name": "Premier HD 1",
+	"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+         "stations": [ 
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "1080p laotv",
+"url": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
+"referer": "https://laotv.la/"
+ },
+ 
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url"    : 	"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
+"info" 	: 	"livescorethai 720P", 
+"referer" : 	"https://freetvdd.com/"
+},
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-1/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=epl1",
+"referer": "https://www.warpfootball.games/"
+ },
+
+
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+  
+{
+"name": "Premier HD 1",
+"info": "540p ufabetcompany",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8"
+},
+
+         ]
+      },
+      { 
+	"name": "Premier HD 2",
+	"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+         "stations": [ 
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "1080p laotv",
+"url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
+"referer": "https://laotv.la/"
+ },
+
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-2/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"url"   		: 	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"info" : 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=epl2",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8"
+},
+
+         ]
+      },
+      { 
+	"name": "Premier HD 3",
+	"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+         "stations": [ 
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-3/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"url"   		: 	"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"info" : 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+
+
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=epl3",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+  {
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf3/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8"
+},
+
+
+         ]
+      },
+      { 
+	"name": "Premier HD 4",
+	"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+         "stations": [ 
+           {
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-4/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+  {
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"url"   		: 	"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"info" : 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+
+
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=epl4",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+  {
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf4/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8"
+},
+
+         ]
+      },
+      { 
+	"name": "Premier HD 5",
+	"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+         "stations": [ 
+          {
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"url"    : 	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"info" : 	"livescorethai 720P", 
+"referer" : 	"https://freetvdd.com/"
+},
+ {
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-5/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+
+
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=epl5",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+
+
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD5_480p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+  {
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf5/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8"
+},
+
+
+
+         ]
+      },
+      { 
+	"name": "beIN SPORT 1",
+	"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+         "stations": [ 
+
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url" :	"https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "beIN SPORT 1",
+"info": "480p youdooball",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/e62c700b-5f47-4ab0-902d-a594c98fe9c9"
+ },
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=bein1",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+
+    {
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+     "url": "https://ctrl.laotv.la/live/Bsport1/index.m3u8",
+"info": "540p laoTV",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "720p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+  {
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/bein1/chunks.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
+ {
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-6/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8"
+},
+
+
+         ]
+      },
+      { 
+	"name": "beIN SPORT 2",
+	"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+         "stations": [ 
+
+{
+"name": "beIN SPORT 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url" :	"https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "beIN SPORT 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=bein2",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "beIN SPORT 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+    {
+"name": "beIN SPORT 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+     "url": "https://ctrl.laotv.la/live/Bsport2/index.m3u8",
+"info": "540p laoTV",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://laotv.la/"
+    },
+{
+"name": "beIN SPORT 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "720p moviehdthai",
+"url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"referer": "https://www.moviehdthai.com/"
+ },
+         ]
+      },
+      { 
+	"name": "beIN SPORT 3",
+	"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+         "stations": [ 
+
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url" :	"https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "beIN SPORT 3",
+"info": "480p youdooball",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/40a63e13-dc19-4299-addd-c15add62a73d"
+ },
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p warpfootball",
+"url": "https://www.warpfootball.games/live/?ch=bein3",
+"referer": "https://www.warpfootball.games/"
+ },
+
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p dooball2you",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+ },
+
+
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url" :	"https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-7/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"referer": "https://ufabetcompany.app/",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8"
+},
+
+         ]
+      },
+   ]
+}

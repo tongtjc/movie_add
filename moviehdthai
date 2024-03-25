@@ -1,0 +1,130 @@
+{
+   "name": "TV Digital - moviehdthai",
+   "image": "https://www.i-pic.info/i/1DJq365480.jpg",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/moviehdthai",
+   "stations": [
+
+{
+     "name": "WorkPoint",
+image:"https://i.imgur.com/oxf6BRn.png",
+     "url": "https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "OneHD",
+image:"https://i.imgur.com/9apyiI0.png",
+     "url": "https://www.livedoomovies.com:4432/02_GMMONE_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "GMM",
+image:"https://i.imgur.com/sWGT1SD.png",
+     "url": "https://www.livedoomovies.com:4432/02_GMM_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "3HD",
+image:"https://i.imgur.com/lHbIKfF.png",
+     "url": "https://www.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "7HD",
+image:"https://i.imgur.com/vxnLkTz.png",
+     "url": "https://www.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "AMARINTVHD",
+image:"https://i.imgur.com/S6gvvf9.png",
+     "url": "https://www.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "Mono29",
+image:"https://i.imgur.com/V4VWHiB.png",
+     "url": "https://www.livedoomovies.com:4432/02_MONO_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "THAIRATHTVHD",
+image:"http://m3u.at/data_file/tvlogo2/32.png",
+     "url": "https://www.livedoomovies.com:4432/02_THAIRATH_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "CH5",
+image:"https://i.imgur.com/4MIQNPQ.png",
+     "url": "https://www.livedoomovies.com:4432/02_5HD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "MCOT9",
+image:"https://i.imgur.com/S4dSUQ7.png",
+     "url": "https://www.livedoomovies.com:4432/02_MCOTHD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "NBT",
+image:"https://i.imgur.com/50EIb6z.png",
+     "url": "https://www.livedoomovies.com:4432/02_NBTSD_480p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "ThaiPBS",
+image:"https://i.imgur.com/OFsQwvv.png",
+     "url": "https://www.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "PPTV",
+image:"https://i.imgur.com/i4t7Q0C.png",
+     "url": "https://www.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+{
+     "name": "CH8",
+image:"https://i.imgur.com/RSQLFiU.png",
+     "url": "https://www.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+     "referer": "https://www.moviehdthai.com/"
+    },
+   ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

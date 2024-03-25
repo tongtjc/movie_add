@@ -1,0 +1,64 @@
+{
+"name": "TJC_CH",
+"author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
+"image": "https://raw.githubusercontent.com/tongtjc/Pic/main/Ch.png",
+"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
+"info": "อย่าให้เจอ ปิดทันที",
+
+"groups": [
+
+{
+"name"              :     "TV Digital",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/tv",
+"import": false
+},
+ 
+{
+"name"              :     "Sport 1",
+"author": "Luxdo เก่า!",
+"image"             :     "https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/gball",
+"import": false
+},
+
+{
+"name"              :     "Sport 2",
+"author": "เอก!",
+"image"             :     "https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg",
+"url"               :     "https://freenote.biz/raw/eBA4njoOiH",
+"import": false
+},
+
+{
+"name"              :     "Acestream SPORT",
+"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
+"import": false
+}, 
+
+{
+"name"              :     "หนังและละคร",
+"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
+"import": false
+}, 
+
+{
+"name"              :     "หนัง เก่า",
+"image"             :     "https://i.imgur.com/XsMDak4.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
+"import": false
+}, 
+
+{
+"name"              :     "การ์ตูน",
+"image"             :     "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
+"import": false
+}, 
+
+
+
+]
+}

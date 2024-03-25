@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 12
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/4IKWkfh65/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 11
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/cRwFbl12Un/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 10
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/DiCeVmfAMt/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 9
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/DBf1aDoK0p/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 8
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/mYPF9YXF5x/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 7
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/8d67SOefe6/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 6
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/JUT5sJ0mg/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 5
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/CjuFgrYNBz/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 4
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/k7V1UGO3WN/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/hrODeA6EN/video.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/nborNDKWbO/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shen-Cang.jpg?w=427&ssl=1" , 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://indy.team-indy.tech:8443/vid/wpIGWAhqn/video.mp4/playlist.m3u8

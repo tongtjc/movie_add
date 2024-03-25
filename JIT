@@ -1,0 +1,537 @@
+{ 
+   "name": "คัมภีร์วิถีเซียน 1-2-3",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+   "groups": [ 
+{
+   "name": "คัมภีร์วิถีเซียน 1",
+   "info": "A Record of a Mortal’s Journey to Immortality คัมภีร์วิถีเซียน ตอนที่ 1-21 ซับไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+   "stations": [
+      {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/h45cPHHH/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ig9jTsfV/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/inhPqpgf/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/FF9IbqMe/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/u8rjgqn8/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/FnXj507p/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/8GqaPGPQ/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/RCIvexiW/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/UbdaW1eh/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/p1DkuNtm/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ZTE2jmFn/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/I5kXiCbx/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/QWz5OVdQ/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tDPJ0KFv/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Ys3apTQC/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/aXgkWXn/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/cCcoNA2w/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/IRQ0B95F/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/5yYQ8oE1/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/6jC7NW4G/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/5fDxAOT5/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    }
+   ]
+},
+{
+   "name": "คัมภีร์วิถีเซียน 2",
+   "info": "A Record of a Mortal’s Journey to Immortality คัมภีร์วิถีเซียน ภาค 2 ตอนที่ 1-51 ซับไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/1vrZvLaC/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/BASohVrn/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/h4bJpTx/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/9bwWq3uN/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/nMvaAImG/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/bRaButu/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/WimjOVA3/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DsmhoZHo/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/PKRh07rN/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/TTiUOcPr/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/IwvkzjpB/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/8ExcHHn/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/TMJvdJH/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/U3fw3sc4/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/c0wpfBOo/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/LNsnIGqG/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/6oS8lJSd/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DshhfE7u/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ni9b123c/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/xTSCCnVt/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/NaVExjd5/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/2qSxvDrv/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/viADhzS5/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/0IDYn7bo/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/VXTDU6Qw/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/qPXrUKec/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/qAXrlDwP/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/iz1iEkJN/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/H0grKeqQ/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/fh05vvQQ/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/SjtT6ioK/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/WFtvQ6q1/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/h9UhyfXJ/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ax5elNp1/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/YrmmglZf/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/1zgJhz9/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/V8XfApe/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/LC71wsIN/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/R0OWPKMU/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/nvoVl2CK/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 41",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Zj84STvs/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 42",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DsZoSbKH/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 43",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/jPBdKPw/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 44",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/dn9TgM8b/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 45",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/pz4XqmDn/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 46",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/d3FfBj2/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 47",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/aTcsjn20/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 48",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/1wi0bjje/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 49",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tRv9M91/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 50",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/iPCYsRh5/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 51",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/qk54XqVd/video.mp4/playlist.m3u8",
+     "referer": "https://indy.team-indy.net/"
+    }
+   ]
+},
+{
+"name"              :     "คัมภีร์วิถีเซียน 3 ทะเลดาราปั่นป่วน 1-4 ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/Fanren-Xiu-Xian-Chuan.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3",
+"import": false
+},
+{
+"name"              :     "คัมภีร์วิถีเซียน 3 ทะเลดาราโหมซัด",
+"image"             :     "https://www.anime-masters.com/upload/fanren-xiu-xian-season-3.jpg?v=44",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3Sea",
+"import": false
+}
+]
+}

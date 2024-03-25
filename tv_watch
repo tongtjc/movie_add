@@ -1,0 +1,121 @@
+ {
+   "name": "Watch.tv",
+   "image": "https://wacth.tv/images/logo.png",
+   "author": "แกะเอง นักเลงพอ",
+   "stations": [
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030140mono.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/029_MONO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030108mcothd.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/030_mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025900onehd.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/031_ONEHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025637thairath.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/032_thairath/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/202201130256053hd.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/033_3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025543amarin.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/034_amarin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/202201130254257hd.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/035_7HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025505pptv.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/036_pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030822tpbs.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/003_TPBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/202201130307375hd.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/005_5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/nation.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/022_Nation/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030713tnn.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/016_tnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030612workpoint.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/023_workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030543true4u.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/024_true4u/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030458gmm25.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/025_Gmm25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030159ch8.png",
+"url"		      	: 	"https://wacthstream.com/stream_live/027_ch8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMyAzOjI0OjE1IFBNJmhhc2hfdmFsdWU9VEJXRWRLTHN4VElST2lCL2drbnl5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc0MzIx=",
+"info"			: 	"wacth.tv 720P",
+"referer"		: 	"https://wacth.tv/"
+},
+
+
+]
+}
