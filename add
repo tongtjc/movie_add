@@ -60,7 +60,13 @@ https://m1free.inwstream.com:1936/movie3/Love_Lies_Bleeding_2024/Love_Lies_Bleed
 
 
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240326031010bih1JYgqYuDqHnrit3YCmdCoBs2.jpg" ,The Monkey King (Magic Monkey) ตำนานศึกราชาวานร (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The_Monkey_King_2022/The_Monkey_King_2022_th_1080.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240326025552vBBG0dtKF8Q1SRRumoeaGUELZ4v.jpg" ,Liaozhai Painting Wall (Tale of the Mural) กำแพงภาพปีศาจ (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Liaozhai_Painting_Wall_2023/Liaozhai_Painting_Wall_2023_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240325021201dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg" ,Miraculous: Ladybug & Cat Noir, The Movie ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์ (2023)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
