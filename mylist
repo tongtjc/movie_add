@@ -1,0 +1,19 @@
+{
+"name": "TJC_CH",
+"author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
+"image": "https://raw.githubusercontent.com/tongtjc/Pic/main/Ch.png",
+"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
+"info": "อย่าให้เจอ ปิดทันที",
+
+"groups": [
+
+{
+"name"              :     "กูทำให้ไว้ใช้ส่วนตัว...สัตว์เอ้ย",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/tv.png",
+"url"               :     "",
+"import": false
+},
+
+
+]
+}
