@@ -1,19 +1,47 @@
 {
-"name": "Fuck_CH",
+"name": "TJC_CH",
 "author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
-"image": "https://www.matichon.co.th/wp-content/uploads/2022/05/pp_4-1536x864.jpg",
+"image": "https://drive.google.com/uc?export=download&id=10gmAnAmJkYiZFl9HEJrUtHYA6lGbQGiY",
 "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
-"info": "อย่าให้เจอ ปิดทันที",
+"info": "อัพเดททุกอย่าง ทุกวัน",
 
 "groups": [
 
 {
-"name"              :     "กูทำไว้ใช้ส่วนตัว...สัตว์เอ้ย",
-"image"             :     "https://www.matichon.co.th/wp-content/uploads/2022/05/pp_4-1536x864.jpg",
-"url"               :     "",
+"name"              :     "TV Digital",
+"image"             :     "https://drive.google.com/uc?export=download&id=119MHvbKeYyBzhnbXE2T6GQWiZW6V3bk-",
+"url"               :     "https://",
 "import": false
 },
+{
+"name"              :     "Sport",
+"image"             :     "https://drive.google.com/uc?export=download&id=11BhKq5GLD6REg85fcZWrNgoPUaZGSS4g",
+"url"               :     "https://",
+"import": false
+},
+
+{
+"name"              :     "Acestream",
+"image"             :     "https://drive.google.com/uc?export=download&id=11G0vdaZt77pSd8QB2X3UI4WSGKn5Bfov",
+"url"               :     "https://",
+"import": false
+}, 
+
+{
+"name"              :     "หนังและละคร",
+"image"             :     "https://drive.google.com/uc?export=download&id=112WTlTNbFwGWfYf7las7HH0-ltwb98EK",
+"url"               :     "https://",
+"import": false
+}, 
+
+{
+"name"              :     "การ์ตูน",
+"image"             :     "https://drive.google.com/uc?export=download&id=11Ehg4ddHoMQO-cd-1-ELvwqPYS8cL03X",
+"url"               :     "https://",
+"import": false
+}, 
 
 
 ]
 }
+
