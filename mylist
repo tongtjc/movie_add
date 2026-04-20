@@ -1,47 +1,47 @@
 {
 "name": "TJC_CH",
 "author": "รวมของทำแจกฟรี ไม่ขายนะคับ!",
-"image": "https://drive.google.com/uc?export=download&id=10gmAnAmJkYiZFl9HEJrUtHYA6lGbQGiY",
-"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
-"info": "อัพเดททุกอย่าง ทุกวัน",
+"image": "https://raw.githubusercontent.com/tongtjc/movie_add/refs/heads/main/logo.png",
+"url": "https://drive.google.com/uc?export=download&id=1wdmRDraxju1OnM6tzjh6z23lzG_l4mMt",
+"info": "อย่าให้เจอ ปิดทันที",
 
 "groups": [
 
 {
 "name"              :     "TV Digital",
-"image"             :     "https://drive.google.com/uc?export=download&id=119MHvbKeYyBzhnbXE2T6GQWiZW6V3bk-",
-"url"               :     "https://",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/movie_add/refs/heads/main/digital.png",
+"url"               :     "https://drive.google.com/uc?export=download&id=1-eMJ39vFD-8MdrAvkSf4Sqv5-UQDU-TS",
 "import": false
 },
+
 {
 "name"              :     "Sport",
-"image"             :     "https://drive.google.com/uc?export=download&id=11BhKq5GLD6REg85fcZWrNgoPUaZGSS4g",
-"url"               :     "https://",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/movie_add/refs/heads/main/sport.png",
+"url"		    :     "https://drive.google.com/uc?export=download&id=13jaAfFQhzTd0Cz85pUuHqmDrXn5LdQJY",
 "import": false
 },
 
 {
 "name"              :     "Acestream",
-"image"             :     "https://drive.google.com/uc?export=download&id=11G0vdaZt77pSd8QB2X3UI4WSGKn5Bfov",
-"url"               :     "https://",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/movie_add/refs/heads/main/acestream.png",
+"url"               :     "https://drive.google.com/uc?export=download&id=1HRdgFmWPya1AqUKY7em4i8rcvRhAfhfI",
 "import": false
 }, 
 
 {
 "name"              :     "หนังและละคร",
-"image"             :     "https://drive.google.com/uc?export=download&id=112WTlTNbFwGWfYf7las7HH0-ltwb98EK",
-"url"               :     "https://",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/movie_add/refs/heads/main/movie.png",
+"url"               :     "https://drive.google.com/uc?export=download&id=1-3i2X0PoeNiu8PpyMYAuiZWe2gMtIGIZ",
 "import": false
 }, 
 
 {
 "name"              :     "การ์ตูน",
-"image"             :     "https://drive.google.com/uc?export=download&id=11Ehg4ddHoMQO-cd-1-ELvwqPYS8cL03X",
-"url"               :     "https://",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/movie_add/refs/heads/main/anime2.png",
+"url"               :     "https://drive.google.com/uc?export=download&id=1-kLVlNAgzNGfXFTYVQ53ngM2RTJrYwzV",
 "import": false
-}, 
+}
 
 
 ]
 }
-
